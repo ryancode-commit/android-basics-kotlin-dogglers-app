@@ -1,0 +1,239 @@
+04-14 00:27:36.466  8940  8962 I TestRunner: started: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
+04-14 00:27:36.484  8940  8962 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-14 00:27:36.517  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:37.194  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:37.517  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:38.228  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:38.518  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:39.271  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:39.465  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:27:39.519  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:40.290  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:40.520  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:41.022  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:41.022  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:41.336  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:41.520  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:41.659  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:41.667  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:41.668  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:41.672  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:41.676 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:41.680 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:27:42.342  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:42.522  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:43.265  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:43.265  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:43.349  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:43.523  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:44.395  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:44.525  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:45.416  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:45.526  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:46.465  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:46.527  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:47.513  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:47.528  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:47.537  1591  2498 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24256094 mSleepTimeMs=13061790 mIdleTimeMs=2458214 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8248519}
+04-14 00:27:47.579   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup48: Permission denied
+04-14 00:27:47.580   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup4: Permission denied
+04-14 00:27:47.565   608   608 W Binder:608_3: type=1400 audit(0.0:9028): avc: denied { read } for name="wakeup48" dev="sysfs" ino=57763 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.565   608   608 W Binder:608_3: type=1400 audit(0.0:9029): avc: denied { read } for name="wakeup4" dev="sysfs" ino=34758 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.585   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup56: Permission denied
+04-14 00:27:47.575   608   608 W Binder:608_3: type=1400 audit(0.0:9030): avc: denied { read } for name="wakeup56" dev="sysfs" ino=58063 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.587   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup46: Permission denied
+04-14 00:27:47.587   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup2: Permission denied
+04-14 00:27:47.575   608   608 W Binder:608_3: type=1400 audit(0.0:9031): avc: denied { read } for name="wakeup46" dev="sysfs" ino=57691 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.575   608   608 W Binder:608_3: type=1400 audit(0.0:9032): avc: denied { read } for name="wakeup2" dev="sysfs" ino=31569 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.592   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup54: Permission denied
+04-14 00:27:47.585   608   608 W Binder:608_3: type=1400 audit(0.0:9033): avc: denied { read } for name="wakeup54" dev="sysfs" ino=57991 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.594   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup44: Permission denied
+04-14 00:27:47.585   608   608 W Binder:608_3: type=1400 audit(0.0:9034): avc: denied { read } for name="wakeup44" dev="sysfs" ino=57619 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.595   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup72: Permission denied
+04-14 00:27:47.596   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+04-14 00:27:47.585   608   608 W Binder:608_3: type=1400 audit(0.0:9035): avc: denied { read } for name="wakeup72" dev="sysfs" ino=65594 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+04-14 00:27:47.598   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup24: Permission denied
+04-14 00:27:47.599   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup52: Permission denied
+04-14 00:27:47.600   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup9: Permission denied
+04-14 00:27:47.601   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup42: Permission denied
+04-14 00:27:47.605   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup22: Permission denied
+04-14 00:27:47.606   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup50: Permission denied
+04-14 00:27:47.606   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup7: Permission denied
+04-14 00:27:47.611   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup20: Permission denied
+04-14 00:27:47.612   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup49: Permission denied
+04-14 00:27:47.612   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup5: Permission denied
+04-14 00:27:47.616   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup57: Permission denied
+04-14 00:27:47.617   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup19: Permission denied
+04-14 00:27:47.617   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup47: Permission denied
+04-14 00:27:47.620   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup163: Permission denied
+04-14 00:27:47.621   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup55: Permission denied
+04-14 00:27:47.622   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup17: Permission denied
+04-14 00:27:47.623   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup45: Permission denied
+04-14 00:27:47.626   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup25: Permission denied
+04-14 00:27:47.626   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup53: Permission denied
+04-14 00:27:47.627   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup15: Permission denied
+04-14 00:27:47.628   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup71: Permission denied
+04-14 00:27:47.629   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup23: Permission denied
+04-14 00:27:47.630   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup51: Permission denied
+04-14 00:27:47.630   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup13: Permission denied
+04-14 00:27:47.632   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup21: Permission denied
+04-14 00:27:47.633   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup6: Permission denied
+04-14 00:27:47.633   608  6388 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup11: Permission denied
+04-14 00:27:48.529  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:48.555  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:49.530  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:49.595  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:49.808  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:49.810  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:49.812  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:49.813  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:49.818 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:49.824 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:27:50.531  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:50.620  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:51.532  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:51.666  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:52.229  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:52.230  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:52.533  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:52.695  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:53.534  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:53.604  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:53.605  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:53.741  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:54.536  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:54.789  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:55.536  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:55.824  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:55.847  1591  2498 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24264404 mSleepTimeMs=13067221 mIdleTimeMs=2458636 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8250977}
+04-14 00:27:56.537  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:56.872  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:57.538  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:57.877  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:57.926  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:57.927  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:57.928  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:57.931 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:57.935  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:57.936 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 352
+04-14 00:27:57.940  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:57.941  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:27:57.941  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:27:57.946  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:57.946  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:27:57.946  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:27:58.539  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:58.921  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:59.540  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:59.964  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:00.008  3149  3149 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+04-14 00:28:00.021  3149  3149 D KeyguardUpdateMonitor: handleTimeUpdate
+04-14 00:28:00.541  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:00.678 22934 23021 D DurationCollector: updateRecord. beginDate = 2023-04-14, isSameDay = true, infos = [{"beginTime":1681405224991,"appVerCode":5030568,"duration":1655679}]
+04-14 00:28:01.010  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:01.185  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:28:01.185  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:28:01.542  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:02.045  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:02.544  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:03.057  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:03.545  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:04.103  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:04.490  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:28:04.546  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:05.119  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:05.547  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:06.084  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:06.088  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:06.095  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:06.100 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:06.101  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:06.101  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:06.102  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:06.102  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:06.104 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:28:06.108  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:06.108  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:06.108  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:06.167  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:06.547  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:07.212  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:07.548  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:08.258  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:08.549  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:09.303  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:09.350  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:09.350  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:09.492  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:28:09.550  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:10.349  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:10.551  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:11.394  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:11.553  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:12.439  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:12.554  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:13.125  1591  2497 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24281683 mSleepTimeMs=13074485 mIdleTimeMs=2459331 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8260298}
+04-14 00:28:13.472  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:13.555  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:14.229  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:14.237  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:14.238  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:14.242  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:14.244  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:14.247  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:14.247 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:14.247  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:14.252 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 350
+04-14 00:28:14.254  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:14.256  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:14.256  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:14.517  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:14.556  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:15.557  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:15.563  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:16.558  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:16.608  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:17.560  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:17.653  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:18.560  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:18.697  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:19.562  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:19.743  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:20.563  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:20.779  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:21.509  8940  8962 E TestRunner: failed: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)
+04-14 00:28:21.510  8940  8962 E TestRunner: ----- begin exception -----
+04-14 00:28:21.516  8940  8962 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[STARTED, RESUMED, DESTROYED, CREATED]" (last lifecycle transition = "PRE_ON_CREATE")
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+04-14 00:28:21.516  8940  8962 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2284)
+04-14 00:28:21.516  8940  8962 E TestRunner: ----- end exception -----
+04-14 00:28:21.527  8940  8962 I TestRunner: finished: horizontal_scroll_content_at_last_position(com.example.dogglers.HorizontalListTests)

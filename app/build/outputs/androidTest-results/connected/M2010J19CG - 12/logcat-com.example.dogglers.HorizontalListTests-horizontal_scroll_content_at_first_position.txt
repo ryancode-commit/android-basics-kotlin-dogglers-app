@@ -1,0 +1,587 @@
+04-14 00:28:21.547  8940  8962 I TestRunner: started: horizontal_scroll_content_at_first_position(com.example.dogglers.HorizontalListTests)
+04-14 00:28:21.564  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:21.574  8940  8962 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-14 00:28:21.828  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:22.350  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:22.358  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:22.359  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:22.364 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:22.366  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:22.368 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 350
+04-14 00:28:22.565  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:22.857  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:23.565  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:23.896  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:24.566  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:24.939  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:25.421  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:25.428  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:25.429  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:25.436 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:25.437  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:25.438  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:25.440  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:25.440  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:25.441 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:28:25.446  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:25.447  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:25.447  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:25.567  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:25.985  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:26.569  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:27.006  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:27.570  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:28.037  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:28.571  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:29.057  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:29.572  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:30.104  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:30.310  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:30.311  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:30.502  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:30.509  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:30.511  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:30.514  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:30.517  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:30.518  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:30.518  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:30.520 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:30.522  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:30.523  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:30.523  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:30.525 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 350
+04-14 00:28:30.573  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:31.151  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:31.574  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:32.199  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:32.549  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:28:32.549  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:28:32.575  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:32.982  1591  4846 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24301540 mSleepTimeMs=13080155 mIdleTimeMs=2460250 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8273565}
+04-14 00:28:33.247  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:33.576  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:34.118  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:28:34.119  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:28:34.218 22934 23023 D DurationCollector: checkOperator. mLastCheckTime = 23402773 currentTime = 24302778 mLastTick = 219 mTick = 239
+04-14 00:28:34.292  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:34.502  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:28:34.577  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:34.755  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:34.755  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:34.755  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:34.812  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:34.812  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:34.812  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:34.844  3283  9089 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.chimera.container.ConfigService started execution. cause:4 exec_start_elapsed_seconds: 24303 [CONTEXT service_id=218 ]
+04-14 00:28:34.847 23886  3760 I ChimeraConfigurator: Starting update, reason: 1 urgentFeatures:
+04-14 00:28:34.858  1591  2498 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:34.858  1591  2498 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:34.858  1591  2498 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:34.863  3283  3283 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:34.863  3283  3283 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:34.876  3283  3283 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:34.876  3283  3283 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:34.918  1591  2498 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:34.918  1591  2498 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:34.919  1591  2498 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:34.998 23886  3760 I ChimeraConfigurator: Update complete: success
+04-14 00:28:35.031 23886  3760 I GmsModuleFndr: Beginning GMS chimera module scan
+04-14 00:28:35.039 23886  3760 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:224400003100000], [AdsFdrDynamite.integ:230500000100000], [AdsFdrDynamite.integ:231004600100000], [BrellaDynamite.optional:231213100400], [Enpromo.integ:212802000100000], [Enpromo.integ:214106000100000], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [Nearby.integ:212002104100400], [Payments.integ:211890902100400], [Payments.integ:212480904100400], [PaymentsDynamite.integ:211890902100400], [PaymentsDynamite.integ:212480904100400], [TfliteDynamiteDynamite.integ:223102802100400], [TfliteDynamiteDynamite.integ:224210505100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionBarcodeDynamite.integ:221180404100400], [VisionBarcodeDynamite.integ:224404100100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400], [VisionOcrDynamite.integ:223610901100400], [VisionOcrDynamite.integ:231000400100000], [Cronetdynamite:231213190400], [Dynamiteloader:231213190000], [Dynamitemodulesa:231213190000], [Dynamitemodulesc:231213190000], [Googlecertificates:231213190000], [Mapsdynamite:231213190000], [Measurementdynamite:231213190000], [SidecarAps.integ:213016903100400]]
+04-14 00:28:35.294 23886  3760 I ModuleSetMgr: Pending container module APKs: [[BrellaDynamite.optional:231213100400], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400]]
+04-14 00:28:35.294 23886  3760 I ModuleSetMgr: Pending non-container module APKs: [[VisionOcrDynamite.integ:231000400100000], [Enpromo.integ:214106000100000], [TfliteDynamiteDynamite.integ:224210505100400], [AdsFdrDynamite.integ:230500000100000], [Nearby.integ:212002104100400], [Payments.integ:212480904100400]]
+04-14 00:28:35.332  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:35.540 23886  3760 W ChimeraCfgRslvr: Config resolution failed. Try without optional APKs
+04-14 00:28:35.562 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/0000008e/dl-Enpromo.integ_214106000100000.apk: [1] 231213000
+04-14 00:28:35.562 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/00000014/dl-Nearby.integ_212002104100400.apk: [1] 231213000
+04-14 00:28:35.562 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/0000003a/dl-Payments.integ_212480904100400.apk: [1] 231213000
+04-14 00:28:35.563 23886  3760 I ChimeraCfgMgr: Invalid module set config ModuleSetConfig for [ads_fdr:2305000005100000,ads_fdr:2310046000100000,container:2312139190400+brella_dynamite+fast_pair+games+maps_core+mlkit.ocr.common+tflite_gpu_dynamite+vision.barcode+vision.face+vision.ica,enpromo:2141060005150000,nearby:2120021045120400,payments:2124809045120400,tflite_dynamite:2242105055100400+tflite_dynamite,vision_ocr:2310004005100000+vision.ocr] with APKs {0=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c2/dl-BrellaDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c0/dl-Fastpair.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c1/dl-Games.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a7/dl-MapsCoreDynamite.integ_224910104100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c7/dl-MlkitOcrCommon.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c3/dl-TfliteGpuDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c6/dl-VisionBarcode.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c4/dl-VisionFace.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c5/dl-VisionIca.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001de/dl-AdsFdrDynamite.integ_224400003100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002b9/CronetDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002ba/DynamiteLoader.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bb/DynamiteModulesA.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bc/DynamiteModulesC.apk), FileBasedSplitApk(GoogleCertificates), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002be/MapsDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bf/MeasurementDynamite.apk), ContainerApk(com.google.android.gms)], 1=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000297/dl-AdsFdrDynamite.integ_230500000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000008e/dl-Enpromo.integ_214106000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000014/dl-Nearby.integ_212002104100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000003a/dl-Payments.integ_212480904100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001f3/dl-TfliteDynamiteDynamite.integ_224210505100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a8/dl-VisionOcrDynamite.integ_231000400100000.apk)], 2=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000247/AndroidPlatformServices.apk)]}: com.google.android.chimera.config.InvalidConfigException: Modules from required APKs are discarded
+04-14 00:28:35.563 23886  3760 W GmsModuleFndr: excluding moduleset: nearby:2120021045120400 reason: [1] 231213000
+04-14 00:28:35.563 23886  3760 W GmsModuleFndr: excluding moduleset: payments:2124809045120400 reason: [1] 231213000
+04-14 00:28:35.563 23886  3760 W GmsModuleFndr: excluding moduleset: enpromo:2141060005150000 reason: [1] 231213000
+04-14 00:28:35.576 23886  3760 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:224400003100000], [AdsFdrDynamite.integ:230500000100000], [AdsFdrDynamite.integ:231004600100000], [BrellaDynamite.optional:231213100400], [Enpromo.integ:212802000100000], [Enpromo.integ:214106000100000], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [Nearby.integ:212002104100400], [Payments.integ:211890902100400], [Payments.integ:212480904100400], [PaymentsDynamite.integ:211890902100400], [PaymentsDynamite.integ:212480904100400], [TfliteDynamiteDynamite.integ:223102802100400], [TfliteDynamiteDynamite.integ:224210505100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionBarcodeDynamite.integ:221180404100400], [VisionBarcodeDynamite.integ:224404100100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400], [VisionOcrDynamite.integ:223610901100400], [VisionOcrDynamite.integ:231000400100000], [Cronetdynamite:231213190400], [Dynamiteloader:231213190000], [Dynamitemodulesa:231213190000], [Dynamitemodulesc:231213190000], [Googlecertificates:231213190000], [Mapsdynamite:231213190000], [Measurementdynamite:231213190000], [SidecarAps.integ:213016903100400]]
+04-14 00:28:35.577  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:35.587 23886  3760 I ModuleSetMgr: Pending container module APKs: [[BrellaDynamite.optional:231213100400], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400]]
+04-14 00:28:35.587 23886  3760 I ModuleSetMgr: Pending non-container module APKs: [[VisionOcrDynamite.integ:231000400100000], [Enpromo.integ:214106000100000], [TfliteDynamiteDynamite.integ:224210505100400], [AdsFdrDynamite.integ:230500000100000], [Payments.integ:211890902100400]]
+04-14 00:28:35.836 23886  3760 W ChimeraCfgRslvr: Config resolution failed. Try without optional APKs
+04-14 00:28:35.857 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/0000008e/dl-Enpromo.integ_214106000100000.apk: [1] 231213000
+04-14 00:28:35.858 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/0000001a/dl-Payments.integ_211890902100400.apk: [1] 231213000
+04-14 00:28:35.858 23886  3760 I ChimeraCfgMgr: Invalid module set config ModuleSetConfig for [ads_fdr:2305000005100000,ads_fdr:2310046000100000,container:2312139190400+brella_dynamite+fast_pair+games+maps_core+mlkit.ocr.common+tflite_gpu_dynamite+vision.barcode+vision.face+vision.ica,enpromo:2141060005120000,payments:2118909025120400,tflite_dynamite:2242105055100400+tflite_dynamite,vision_ocr:2310004005100000+vision.ocr] with APKs {0=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c2/dl-BrellaDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c0/dl-Fastpair.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c1/dl-Games.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a7/dl-MapsCoreDynamite.integ_224910104100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c7/dl-MlkitOcrCommon.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c3/dl-TfliteGpuDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c6/dl-VisionBarcode.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c4/dl-VisionFace.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c5/dl-VisionIca.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001de/dl-AdsFdrDynamite.integ_224400003100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002b9/CronetDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002ba/DynamiteLoader.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bb/DynamiteModulesA.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bc/DynamiteModulesC.apk), FileBasedSplitApk(GoogleCertificates), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002be/MapsDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bf/MeasurementDynamite.apk), ContainerApk(com.google.android.gms)], 1=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000297/dl-AdsFdrDynamite.integ_230500000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000008e/dl-Enpromo.integ_214106000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/0000001a/dl-Payments.integ_211890902100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001f3/dl-TfliteDynamiteDynamite.integ_224210505100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a8/dl-VisionOcrDynamite.integ_231000400100000.apk)], 2=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000247/AndroidPlatformServices.apk)]}: com.google.android.chimera.config.InvalidConfigException: Modules from required APKs are discarded
+04-14 00:28:35.858 23886  3760 W GmsModuleFndr: excluding moduleset: payments:2118909025120400 reason: [1] 231213000
+04-14 00:28:35.859 23886  3760 W GmsModuleFndr: excluding moduleset: enpromo:2141060005120000 reason: [1] 231213000
+04-14 00:28:35.872 23886  3760 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:224400003100000], [AdsFdrDynamite.integ:230500000100000], [AdsFdrDynamite.integ:231004600100000], [BrellaDynamite.optional:231213100400], [Enpromo.integ:212802000100000], [Enpromo.integ:214106000100000], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [Nearby.integ:212002104100400], [Payments.integ:211890902100400], [Payments.integ:212480904100400], [PaymentsDynamite.integ:211890902100400], [PaymentsDynamite.integ:212480904100400], [TfliteDynamiteDynamite.integ:223102802100400], [TfliteDynamiteDynamite.integ:224210505100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionBarcodeDynamite.integ:221180404100400], [VisionBarcodeDynamite.integ:224404100100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400], [VisionOcrDynamite.integ:223610901100400], [VisionOcrDynamite.integ:231000400100000], [Cronetdynamite:231213190400], [Dynamiteloader:231213190000], [Dynamitemodulesa:231213190000], [Dynamitemodulesc:231213190000], [Googlecertificates:231213190000], [Mapsdynamite:231213190000], [Measurementdynamite:231213190000], [SidecarAps.integ:213016903100400]]
+04-14 00:28:35.882 23886  3760 I ModuleSetMgr: Pending container module APKs: [[BrellaDynamite.optional:231213100400], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400]]
+04-14 00:28:35.882 23886  3760 I ModuleSetMgr: Pending non-container module APKs: [[VisionOcrDynamite.integ:231000400100000], [Enpromo.integ:212802000100000], [TfliteDynamiteDynamite.integ:224210505100400], [AdsFdrDynamite.integ:230500000100000]]
+04-14 00:28:36.101 23886  3760 W ChimeraCfgRslvr: Config resolution failed. Try without optional APKs
+04-14 00:28:36.139 23886  3760 W ChimeraCfgRslvr: Rejected required APK /data/user_de/0/com.google.android.gms/app_chimera/m/00000186/dl-Enpromo.integ_212802000100000.apk: [1] 231213000
+04-14 00:28:36.140 23886  3760 I ChimeraCfgMgr: Invalid module set config ModuleSetConfig for [ads_fdr:2305000005100000,ads_fdr:2310046000100000,container:2312139190400+brella_dynamite+fast_pair+games+maps_core+mlkit.ocr.common+tflite_gpu_dynamite+vision.barcode+vision.face+vision.ica,enpromo:2128020005150000,tflite_dynamite:2242105055100400+tflite_dynamite,vision_ocr:2310004005100000+vision.ocr] with APKs {0=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c2/dl-BrellaDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c0/dl-Fastpair.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c1/dl-Games.optional_231213100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a7/dl-MapsCoreDynamite.integ_224910104100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c7/dl-MlkitOcrCommon.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c3/dl-TfliteGpuDynamite.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c6/dl-VisionBarcode.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c4/dl-VisionFace.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002c5/dl-VisionIca.optional_231213100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001de/dl-AdsFdrDynamite.integ_224400003100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002b9/CronetDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002ba/DynamiteLoader.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bb/DynamiteModulesA.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bc/DynamiteModulesC.apk), FileBasedSplitApk(GoogleCertificates), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002be/MapsDynamite.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002bf/MeasurementDynamite.apk), ContainerApk(com.google.android.gms)], 1=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000297/dl-AdsFdrDynamite.integ_230500000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000186/dl-Enpromo.integ_212802000100000.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000001f3/dl-TfliteDynamiteDynamite.integ_224210505100400.apk), FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/000002a8/dl-VisionOcrDynamite.integ_231000400100000.apk)], 2=[FileApk(/data/user_de/0/com.google.android.gms/app_chimera/m/00000247/AndroidPlatformServices.apk)]}: com.google.android.chimera.config.InvalidConfigException: Modules from required APKs are discarded
+04-14 00:28:36.140 23886  3760 W GmsModuleFndr: excluding moduleset: enpromo:2128020005150000 reason: [1] 231213000
+04-14 00:28:36.156 23886  3760 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:224400003100000], [AdsFdrDynamite.integ:230500000100000], [AdsFdrDynamite.integ:231004600100000], [BrellaDynamite.optional:231213100400], [Enpromo.integ:212802000100000], [Enpromo.integ:214106000100000], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [Nearby.integ:212002104100400], [Payments.integ:211890902100400], [Payments.integ:212480904100400], [PaymentsDynamite.integ:211890902100400], [PaymentsDynamite.integ:212480904100400], [TfliteDynamiteDynamite.integ:223102802100400], [TfliteDynamiteDynamite.integ:224210505100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionBarcodeDynamite.integ:221180404100400], [VisionBarcodeDynamite.integ:224404100100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400], [VisionOcrDynamite.integ:223610901100400], [VisionOcrDynamite.integ:231000400100000], [Cronetdynamite:231213190400], [Dynamiteloader:231213190000], [Dynamitemodulesa:231213190000], [Dynamitemodulesc:231213190000], [Googlecertificates:231213190000], [Mapsdynamite:231213190000], [Measurementdynamite:231213190000], [SidecarAps.integ:213016903100400]]
+04-14 00:28:36.175 23886  3760 I ModuleSetMgr: Pending container module APKs: [[BrellaDynamite.optional:231213100400], [Fastpair.optional:231213100000], [Games.optional:231213100000], [MapsCoreDynamite.integ:224910104100400], [MlkitOcrCommon.optional:231213100400], [TfliteGpuDynamite.optional:231213100400], [VisionBarcode.optional:231213100400], [VisionFace.optional:231213100400], [VisionIca.optional:231213100400]]
+04-14 00:28:36.175 23886  3760 I ModuleSetMgr: Pending non-container module APKs: [[VisionOcrDynamite.integ:231000400100000], [TfliteDynamiteDynamite.integ:224210505100400], [AdsFdrDynamite.integ:230500000100000]]
+04-14 00:28:36.342  3283  8738 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.chimera.container.ConfigService finished executing. cause:4 result: 1 elapsed_millis: 1548 uptime_millis: 1548 exec_start_elapsed_seconds: 24303 [CONTEXT service_id=218 ]
+04-14 00:28:36.372  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:36.415  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:36.415  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:36.415  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:36.430  3283  9097 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.udc.service.UdcContextInitService started execution. cause:5 exec_start_elapsed_seconds: 24304 [CONTEXT service_id=218 ]
+04-14 00:28:36.464  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:36.465  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:36.465  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:36.578  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:36.686 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.694 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.701 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.709 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.717 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.725 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.735 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.743 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.751 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.758 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.765 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:36.771 23886  3760 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.google.android.gms/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:28:37.413  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:37.578  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:38.455  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:38.496  3283  3283 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.facs.cache.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:38.496  3283  3283 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.facs.cache.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:38.509  3283  7510 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.513  3283  7510 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.515  3283  7510 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.520  3283  7510 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.523  3283  7446 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.528  3283  7446 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.528  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.528  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.528  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.531  3283  7510 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.533 23886 23886 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.facs.internal.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+04-14 00:28:38.533 23886 23886 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.facs.internal.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+04-14 00:28:38.533  3283  7510 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.536  3283  7510 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.538  3283  7510 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.540  3283  7446 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.542 23886 29485 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.543  3283  7446 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.545  3283  7510 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.545 23886 29485 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.547  3283  7510 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.548 23886 29971 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.549  3283  7446 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.550 23886 29971 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.551  3283  7446 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.552 23886 29485 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.553  3283  7510 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.554  3283  7510 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.554 23886 29485 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.555  3283  9097 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.556  3283  9097 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.556  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.557  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.557  3283  9097 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.557  3283  9097 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.559 23886 29971 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.559  3283  7510 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.560  3283  7510 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.560  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.561  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.561 23886  9111 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.562 23886 29971 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.562 23886  9120 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.562  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.562 23886  9112 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.563  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.563  3283  9097 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.564  3283  9097 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.564 23886 29485 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.566 23886 29485 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.567 23886  9108 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.568 23886 28557 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.569 23886 28557 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.570 23886 29485 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.572 23886 29485 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.573 23886 29971 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.574  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.574  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.574  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.575 23886 29971 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.575  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.575  3283  6249 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.576  3283  6249 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.577  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.577  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.578  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.578 23886  9105 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.579  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.579  3283  6249 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.579  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.579  3283  6249 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.579  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:38.580  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.581 23886  9114 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.581  3283  3283 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:38.581  3283  3283 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:38.581  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.583 23886  3760 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.583  3283  6249 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.583  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.585  3283  6249 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.585 23886  9113 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.586 23886 29971 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.586  3283  7446 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.588  3283  7446 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.589  3283  6249 I FacsCacheGmsModule: Receiving API connection to FACS API from package 'com.google.android.gms'...
+04-14 00:28:38.590 23886 29971 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.590  3283  6249 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.593 23886 29971 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.593  3283  6249 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.594  3283  6249 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.594 23886 29971 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.594  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.594  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.595  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.595 23886 29485 I FacsCacheGmsModule: Receiving API connection to internal FACS API...
+04-14 00:28:38.596  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.596 23886  9109 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.596  3283  9097 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.596  3283  9097 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.596 23886 29485 I FacsCacheGmsModule: API connection successful!
+04-14 00:28:38.597  3283  7446 I FacsCacheGmsModule: Received 'readDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.598 23886  9119 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.598  3283  7446 I FacsCacheGmsModule: Operation 'readDeviceLevelSettings' dispatched!
+04-14 00:28:38.598  3283  8738 I FacsCacheGmsModule: Executing operation 'ReadDeviceLevelSettingsOperation'...
+04-14 00:28:38.598  3283  8738 I FacsCacheGmsModule: Operation 'ReadDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.599 23886  9107 I GmsCoreXrpcWrapper: Returning a channel provider with trafficStatsTag=4097 trafficStatsUid=-1
+04-14 00:28:38.634  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:38.637  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:38.638  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:38.639  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:38.642 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:38.644  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:38.645  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:38.645  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:38.645 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:28:38.648 23886  9112 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.649  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:38.650  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:38.650  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:38.658 23886  9120 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.709 23886  9108 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.757 23886  9114 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.798 23886  9111 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.829 23886  9105 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.851 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@3f7669b
+04-14 00:28:38.854 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@c246a11
+04-14 00:28:38.858 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@75bd177
+04-14 00:28:38.860 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@fdda502
+04-14 00:28:38.869  3283  6249 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.870  3283  6249 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.870  3283  8738 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.871 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@5e14a49
+04-14 00:28:38.877  1591  2118 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.877  1591  2118 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.877  1591  2118 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.878 23886  3760 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.879  3283  6249 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.879  3283  6249 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.885  3283  8738 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.886  3283  8738 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.892  3283  7107 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.893  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.893  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.893  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.893  3283  7107 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.897  3283  8738 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.898  3283  8738 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.898 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:38.898 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@b1457b9
+04-14 00:28:38.910  1591  2497 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.910  1591  2497 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.910  1591  2497 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.914  3283  8738 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.920  1591  2497 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.920  1591  2497 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.920  1591  2497 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.922 23886  9101 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:38.926 23886  9125 W gle.android.gm: Long monitor contention with owner lowpool[80] (9116) at djnl djnu.b(djnf, java.util.Set)(:com.google.android.gms@231213044@23.12.13 (190400-520023152):3) waiters=7 in djnl djnu.b(djnf, java.util.Set) for 326ms
+04-14 00:28:38.926 23886  9113 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.926  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.926  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.926  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.928  3283  7107 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.928  3283  7107 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.929  3283  9130 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.929  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:38.933  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.934  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.937  3283  7107 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:38.938  3283  7107 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:38.938  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.938  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.938  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.943  3283  9130 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.943  3283  9130 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.952 23886  9124 W gle.android.gm: Long monitor contention with owner lowpool[80] (9116) at djnl djnu.b(djnf, java.util.Set)(:com.google.android.gms@231213044@23.12.13 (190400-520023152):3) waiters=8 in djnl djnu.b(djnf, java.util.Set) for 352ms
+04-14 00:28:38.954  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.954  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.954  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.956  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:38.957 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:38.957  3283  9130 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.958 23886  9119 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.958  3283  9130 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:38.962  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.962  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.962  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.965  3283  9130 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:38.970  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.970  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.970  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.971 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:38.973  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:38.978  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.978  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.978  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.986 23886  9126 W gle.android.gm: Long monitor contention with owner lowpool[80] (9116) at djnl djnu.b(djnf, java.util.Set)(:com.google.android.gms@231213044@23.12.13 (190400-520023152):3) waiters=9 in djnl djnu.b(djnf, java.util.Set) for 384ms
+04-14 00:28:38.987 23886  9100 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:38.989  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.989  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.989  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:38.990 23886  9109 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:38.991  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:38.995  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:38.995  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:38.995  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.001 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@60724ce
+04-14 00:28:39.003  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.003  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.003  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.004 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@79beae8
+04-14 00:28:39.005  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.007 23886  9100 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.016  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:39.016  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:39.016  3283  9097 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:39.020  1591  2118 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.020  1591  2118 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.020  1591  2118 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.022  3283  9097 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:39.023  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:39.025  3283  9130 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:39.026  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:39.033 23886  9100 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.034  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.034  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.034  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.036 23886  9107 W DataCollectionRegistryC: missing CollectionDefinition for footprints-pa.googleapis.com/footprints.oneplatform.FootprintsService/GetActivityControlsSettings
+04-14 00:28:39.036  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.037  3283  9130 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:39.040 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@799311d
+04-14 00:28:39.043  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.043  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.043  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.048  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:39.048  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:39.048  3283  9089 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:39.053  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.053  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.053  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.054 23886  9100 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.055  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.057  3283  9089 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:39.059  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.059  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.059  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.066  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.066  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.066  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.068 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.069  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.082 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@8e1301c
+04-14 00:28:39.089  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:39.090  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:39.090  3283  9097 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:39.096  1591  2118 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.096  1591  2118 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.096  1591  2118 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.097  3283  9097 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:39.104  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.104  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.104  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.104 23886 24056 I cr_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@1644077
+04-14 00:28:39.106  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.109 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.120  3283  7510 I FacsCacheGmsModule: Received 'writeDeviceLevelSettings' request from package 'com.google.android.gms'...
+04-14 00:28:39.120  3283  7510 I FacsCacheGmsModule: Operation 'writeDeviceLevelSettings' dispatched!
+04-14 00:28:39.121  3283  9089 I FacsCacheGmsModule: Executing operation 'WriteDeviceLevelSettingsOperation'...
+04-14 00:28:39.126  1591  2118 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.126  1591  2118 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.126  1591  2118 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.128  3283  9089 I FacsCacheGmsModule: Operation 'WriteDeviceLevelSettingsOperation' successful!
+04-14 00:28:39.136  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:28:39.136  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:28:39.136  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:28:39.137  6493  6493 I A       : (REDACTED) Refusing EXCLUSIVE task %s, it is already pending. Try again in %d seconds.
+04-14 00:28:39.142 23886  9099 I ContactsLoggerIntent: handleUdcSettingChanged: Udc flag is enabled [CONTEXT service_id=135 ]
+04-14 00:28:39.149 23886 23894 I gle.android.gm: Background concurrent copying GC freed 174460(7793KB) AllocSpace objects, 2(40KB) LOS objects, 49% free, 20MB/40MB, paused 95us,94us total 139.230ms
+04-14 00:28:39.186  3283  9089 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.udc.service.UdcContextInitService finished executing. cause:5 result: 1 elapsed_millis: 2791 uptime_millis: 2792 exec_start_elapsed_seconds: 24304 [CONTEXT service_id=218 ]
+04-14 00:28:39.477  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:39.505  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:28:39.580  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:40.193  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:28:40.194  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:28:40.489  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:40.582  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:41.528  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:41.583  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:41.697 22934 23023 I AS.CFG_ConfigRequest: 00:28:41.696[116] request: url = http://www.pullcf.com/config/group/v3
+04-14 00:28:41.905 22934 23023 I AS.CFG_ConfigHelper: 00:28:41.905[116] sync()  server return jsonArray = null
+04-14 00:28:42.550  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:42.584  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:43.335  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:28:43.336  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:28:43.580  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:43.585  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:44.586  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:44.628  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:45.587  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:45.663  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:45.736 22934 23021 D DurationCollector: updateRecord. beginDate = 2023-04-14, isSameDay = true, infos = [{"beginTime":1681405224991,"appVerCode":5030568,"duration":1700732}]
+04-14 00:28:45.990  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:45.990  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:46.588  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:46.685  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:46.794  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:46.799  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:46.800  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:46.806 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:46.808  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:46.809  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:28:46.809  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:28:46.809  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:46.811 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 350
+04-14 00:28:46.821  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:28:46.821  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:28:46.822  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:28:47.589  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:47.715  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:48.229  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:48.230  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:48.590  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:48.760  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:49.591  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:49.804  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:49.923  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:49.939  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:50.469  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:50.470  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:50.592  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:50.821  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:51.593  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:51.867  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:52.594  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:52.876  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:53.455  1591  4846 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24322009 mSleepTimeMs=13085279 mIdleTimeMs=2461104 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8288056}
+04-14 00:28:53.595  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:53.609 23886 23886 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.facs.internal.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+04-14 00:28:53.635  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:53.924  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:54.158  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.facs.cache.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:28:54.596  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:54.933  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:28:54.940  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:28:54.941  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:28:54.943  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:28:54.946 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:28:54.949 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 350
+04-14 00:28:54.960  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:54.965  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:54.965  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:55.597  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:56.006  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:56.030  2936  3568 I Finsky  : [64] ijl.run(2): AIM: AppInfoManager-Perf > Destroying AppInfoManager ...
+04-14 00:28:56.598  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:57.054  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:57.190  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:28:57.190  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:28:57.600  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:58.101  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:58.601  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:28:58.846  2936  3588 I Finsky  : [72] ijl.run(2): AIM: AppInfoManager-Perf > Destroying AppInfoManager ...
+04-14 00:28:59.150  2936  3589 I Finsky  : [73] ijl.run(2): AIM: AppInfoManager-Perf > Destroying AppInfoManager ...
+04-14 00:28:59.151  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:28:59.602  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:00.016  3149  3149 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+04-14 00:29:00.041  3149  3149 D KeyguardUpdateMonitor: handleTimeUpdate
+04-14 00:29:00.186  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:00.603  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:01.204  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:01.605  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:02.249  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:02.606  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:02.983  3283  9135 I GCoreUlr: Successfully inserted 1 locations
+04-14 00:29:03.028  3283  9097 I SemanticLocation: [Inferrer] IncrementalTimelineInferrer.predict() logs:
+04-14 00:29:03.028  3283  9097 I SemanticLocation: Timeline Paths Enabled! Start Computing the timeline paths.
+04-14 00:29:03.028  3283  9097 I SemanticLocation:
+04-14 00:29:03.028  3283  9097 I SemanticLocation: [CONTEXT service_id=173 ]
+04-14 00:29:03.065  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:29:03.070  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:29:03.071  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:29:03.072  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:29:03.073  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:29:03.073  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:29:03.076 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:29:03.079 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:29:03.079  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:29:03.080  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:29:03.080  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:29:03.084  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:29:03.268  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:03.607  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:03.906  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:29:03.906  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:29:04.312  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:04.515  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:29:04.608  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:05.338  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:05.609  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:05.972  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:29:05.972  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:29:06.384  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:29:06.608  8940  8962 E TestRunner: failed: horizontal_scroll_content_at_first_position(com.example.dogglers.HorizontalListTests)
+04-14 00:29:06.608  8940  8962 E TestRunner: ----- begin exception -----
+04-14 00:29:06.610  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:29:06.613  8940  8962 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[STARTED, RESUMED, DESTROYED, CREATED]" (last lifecycle transition = "PRE_ON_CREATE")
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+04-14 00:29:06.613  8940  8962 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2284)
+04-14 00:29:06.613  8940  8962 E TestRunner: ----- end exception -----
+04-14 00:29:06.623  8940  8962 I TestRunner: finished: horizontal_scroll_content_at_first_position(com.example.dogglers.HorizontalListTests)

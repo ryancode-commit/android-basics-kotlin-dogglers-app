@@ -1,0 +1,265 @@
+04-14 00:26:51.405  8940  8962 I TestRunner: started: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
+04-14 00:26:51.417  8940  8962 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-14 00:26:51.472  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:51.599  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:51.692  3149  3149 D MiuiPhoneStatusBarPolicy: updateBluetooth: action = null
+04-14 00:26:51.693  3149  3149 D MiuiPhoneStatusBarPolicy: hide bluetooth battery
+04-14 00:26:51.693  3149  3149 D MiuiPhoneStatusBarPolicy: updateBluetooth: BluetoothFlowState = 0
+04-14 00:26:52.474  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:52.645  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:52.753  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:52.753  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:52.753  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:52.809  1591  2497 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:52.809  1591  2497 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:52.809  1591  2497 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:52.821  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:52.829  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:52.830  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:52.831  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:52.835 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:52.839 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:52.848  1591  2497 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:52.848  1591  2497 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:52.849  1591  2497 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:53.475  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:53.691  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:53.990  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:26:53.990  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:26:54.476  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:54.713  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:55.476  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:55.748  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:56.304  8734  8761 I Finsky:background: [49] ksx.run(13): Stats for Executor: bgExecutor nfy@189323[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+04-14 00:26:56.312  8734  8761 I Finsky:background: [49] ksx.run(13): Stats for Executor: LightweightExecutor nfy@75d8020[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0]
+04-14 00:26:56.478  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:56.794  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:57.478  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:57.840  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:58.479  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:58.700  3149  3149 D Tile.MiuiCellularTile: setAllSubs [{id=2 iccId=896201400[****] simSlotIndex=0 carrierId=1537 displayName=Indosat Ooredoo carrierName=Tidak ada layanan nameSource=1 iconTint=-13408298 mNumber=null dataRoaming=0 iconBitmap=android.graphics.Bitmap@1edf193 mcc=510 mnc=01 countryIso=id isEmbedded=false nativeAccessRules=null cardString=896201400[****] cardId=1 isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-1 ehplmns=[] hplmns=[] subscriptionType=0 groupOwner=null carrierConfigAccessRules=null areUiccApplicationsEnabled=true}, {id=1 iccId=896210005[****] simSlotIndex=1 carrierId=787 displayName=TELKOMSEL carrierName=Tidak ada layanan nameSource=0 iconTint=-16746133 mNumber=null dataRoaming=0 iconBitmap=android.graphics.Bitmap@c9cd5d0 mcc=510 mnc=10 countryIso=id isEmbedded=false nativeAccessRules=null cardString=896210005[****] cardId=0 isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-1 ehplmns=[] hplmns=[] subscriptionType=0 groupOwner=null carrierConfigAccessRules=null areUiccApplicationsEnabled=true}]
+04-14 00:26:58.700  3149  3149 D Tile.MiuiCellularTile: data usage callback null
+04-14 00:26:58.710  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.720  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.729  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.736  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.743  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.748  3149  3584 D Tile.MiuiCellularTile: handleUpdateState: MULTI_SIM = true, mSimInfoRecordList.size() = 2, mShowDataUsage = false
+04-14 00:26:58.872  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:59.480  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:59.913  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:00.033  3149  3149 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+04-14 00:27:00.034  3149  3149 D KeyguardUpdateMonitor: handleTimeUpdate
+04-14 00:27:00.481  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:00.852 23886 23886 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+04-14 00:27:00.871  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:27:00.960  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:01.483  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:01.967  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:02.484  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:02.716  1591  4829 D WifiNl80211Manager: Scan result ready event
+04-14 00:27:02.716  1591  4829 D WifiNative: Scan result ready event
+04-14 00:27:02.716  1832 25438 I LOWI-9.0.0.87: [LOWI-Scan] lowi_close_record:Scan done in 24157440ms, 3 APs in scan results
+04-14 00:27:02.873  3283  5643 W FusedLocation: forcing availability [CONTEXT service_id=6 ]
+04-14 00:27:02.901  3283  8738 W GCoreUlr: Received location statuses too frequently: [NetworkLocationStatus: Wifi status: 0 Cell status: 0 elapsed time NS: 23791817000000 system time ms: 1681406403257, timeStamp(ms): 1681406403257], [NetworkLocationStatus: Wifi status: 1 Cell status: 1 elapsed time NS: 0 system time ms: 1681406822901, timeStamp(ms): 1681406822901]
+04-14 00:27:02.954  3283  8738 I GCoreUlr: Successfully inserted 5 locations
+04-14 00:27:03.007  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:03.103  3283  9089 I SemanticLocation: [Inferrer] IncrementalTimelineInferrer.predict() logs:
+04-14 00:27:03.103  3283  9089 I SemanticLocation: Timeline Paths Enabled! Start Computing the timeline paths.
+04-14 00:27:03.103  3283  9089 I SemanticLocation:
+04-14 00:27:03.103  3283  9089 I SemanticLocation: [CONTEXT service_id=173 ]
+04-14 00:27:03.146  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:27:03.146  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:27:03.146  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:27:03.168 23886 23886 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.semanticlocationhistory.zeroparty.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+04-14 00:27:03.168 23886 23886 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.semanticlocationhistory.zeroparty.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+04-14 00:27:03.206  1591  2498 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:27:03.206  1591  2498 D CompatibilityInfo: applicationDensity - 440
+04-14 00:27:03.206  1591  2498 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:27:03.222  1591  2498 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:27:03.222  1591  2498 D CompatibilityInfo: applicationDensity - 440
+04-14 00:27:03.222  1591  2498 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:27:03.485  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:04.053  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:04.451  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:27:04.486  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:05.100  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:05.486  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:06.142  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:06.487  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:07.189  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:07.429  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:07.430  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:07.488  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:08.197  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:08.489  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:09.078  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:09.085  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:09.087  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:09.089  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:09.090  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:09.093  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:27:09.093  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:27:09.098 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:09.103  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:09.103 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 352
+04-14 00:27:09.103  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:27:09.104  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:27:09.241  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:09.453  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:27:09.490  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:09.668  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:09.668  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:10.149   817   871 I nightwatch-target: monitor resources last 600 iteration: 300543 msec
+04-14 00:27:10.263  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:10.491  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:11.309  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:11.493  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:11.909  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:11.909  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:12.341  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:12.494  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:13.047  1545  1626 I mi_thermald: special_target_modify: set generic device battery to 0
+04-14 00:27:13.047  1545  1626 I mi_thermald: generic_set_level: set generic device battery to 0
+04-14 00:27:13.378  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:13.495  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:14.423  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:14.496  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:15.461  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:15.497  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:15.633 22934 23021 D DurationCollector: updateRecord. beginDate = 2023-04-14, isSameDay = true, infos = [{"beginTime":1681405224991,"appVerCode":5030568,"duration":1610634}]
+04-14 00:27:16.168  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:16.170  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:16.498  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:16.503  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:17.194  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:17.204  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:17.204  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:17.206  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:17.209 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:17.213 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 352
+04-14 00:27:17.499  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:17.514  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:18.088  1591  3312 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24226647 mSleepTimeMs=13049575 mIdleTimeMs=2456900 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8232602}
+04-14 00:27:18.249 23886 23886 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.semanticlocationhistory.zeroparty.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsApiService }
+04-14 00:27:18.500  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:18.526  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:19.168  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:19.168  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:19.501  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:19.567  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:20.503  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:20.613  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:20.791  3283  9089 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 24289351]
+04-14 00:27:20.793  3283  9089 E GmsTaskScheduler: sendWakeUpEvent called on SchedulerClientBroadcastStrategy
+04-14 00:27:20.793  3283  9089 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+04-14 00:27:20.884  3283  9089 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 24349444]
+04-14 00:27:20.886  3283  9089 E GmsTaskScheduler: sendWakeUpEvent called on SchedulerClientBroadcastStrategy
+04-14 00:27:21.503  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:21.646  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:22.199  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:22.201  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:22.504  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:22.678  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:23.113  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:23.113  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:23.505  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:23.727  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:24.505  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:24.751  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:25.366  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:25.375  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:25.378  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:25.378  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:25.383 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:25.387  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:25.387  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/reverse_chg_mode
+04-14 00:27:25.387  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/reverse_chg_mode value =
+04-14 00:27:25.390 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:27:25.390  1591  2095 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default
+04-14 00:27:25.391  1236  1263 E vendor.xiaomi.hardware.micharge@1.0-service: Failed to open node /sys/class/qcom-battery/fastchg_mode
+04-14 00:27:25.391  1236  1263 I vendor.xiaomi.hardware.micharge@1.0-service: ReadFilePathValue path = /sys/class/qcom-battery/fastchg_mode value =
+04-14 00:27:25.430  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:25.437  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:25.440  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:25.440  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:25.447 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:25.453 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:27:25.506  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:25.765  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:26.507  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:26.812  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:27.508  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:27.589  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:27.589  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:27.842  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:28.508  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:28.519  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:28.520  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:28.865  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:29.509  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:29.889  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:30.510  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:30.936  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:31.512  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:31.757  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:31.757  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:31.979  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:32.513  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:32.816  1591  2497 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24241374 mSleepTimeMs=13055113 mIdleTimeMs=2457634 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8241058}
+04-14 00:27:33.026  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:33.513  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:33.534  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:27:33.538  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:27:33.539  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:27:33.539  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:27:33.548 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:27:33.554 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:27:34.064  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:34.311  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:34.315  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:34.334  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:27:34.334  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:27:34.458  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:27:34.515  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:34.956  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:27:34.956  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:27:35.110  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:35.516  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:27:36.153  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:27:36.432  8940  8962 E TestRunner: failed: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
+04-14 00:27:36.433  8940  8962 E TestRunner: ----- begin exception -----
+04-14 00:27:36.437  8940  8962 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[STARTED, RESUMED, DESTROYED, CREATED]" (last lifecycle transition = "PRE_ON_CREATE")
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+04-14 00:27:36.437  8940  8962 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2284)
+04-14 00:27:36.437  8940  8962 E TestRunner: ----- end exception -----
+04-14 00:27:36.447  8940  8962 I TestRunner: finished: horizontal_scrolling(com.example.dogglers.HorizontalListTests)

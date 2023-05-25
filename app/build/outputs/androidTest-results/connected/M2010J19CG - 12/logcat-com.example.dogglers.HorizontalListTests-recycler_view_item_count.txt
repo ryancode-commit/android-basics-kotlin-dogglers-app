@@ -1,0 +1,829 @@
+04-14 00:26:05.521  8940  8962 I TestRunner: started: recycler_view_item_count(com.example.dogglers.HorizontalListTests)
+04-14 00:26:05.531  8940  8962 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-14 00:26:05.566  8940  8962 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10713; state: ENABLED
+04-14 00:26:05.795  1591  1591 W ActivityManager: type=1400 audit(0.0:9012): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.795  1591  1591 W ActivityManager: type=1400 audit(0.0:9013): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.805  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.811  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.795  1591  1591 W ActivityManager: type=1400 audit(0.0:9014): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.795  1591  1591 W ActivityManager: type=1400 audit(0.0:9015): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.805  1591  1591 W ActivityManager: type=1400 audit(0.0:9016): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.805  1591  1591 W ActivityManager: type=1400 audit(0.0:9017): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.823  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.815  1591  1591 W ActivityManager: type=1400 audit(0.0:9018): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.815  1591  1591 W ActivityManager: type=1400 audit(0.0:9019): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.829  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.815  1591  1591 W ActivityManager: type=1400 audit(0.0:9020): avc: denied { getpgid } for scontext=u:r:system_server:s0 tcontext=u:r:app_zygote:s0:c512,c768 tclass=process permissive=0
+04-14 00:26:05.835  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.841  1591  2118 E libprocessgroup: getpgid(7582) failed: Permission denied
+04-14 00:26:05.846   946   946 I Zygote  : Process 7582 exited due to signal 9 (Killed)
+04-14 00:26:05.847  1591  2118 I libprocessgroup: Successfully killed process cgroup uid 10221 pid 7582 in 43ms
+04-14 00:26:06.001  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:06.432  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:06.948  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:26:06.949  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:26:07.004   609  8769 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+04-14 00:26:07.033  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:07.433  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:08.069  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:08.433  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:08.870 23886 23886 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+04-14 00:26:08.888  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:26:09.105  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:09.434  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:09.437  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:26:10.152  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:10.435  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:10.913  1591  2150 I libprocessgroup: Successfully killed process cgroup uid 10141 pid 7057 in 45ms
+04-14 00:26:10.931   945   945 I Zygote  : Process 7057 exited due to signal 9 (Killed)
+04-14 00:26:11.022  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:26:11.168  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:11.436  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:11.463  3283  3283 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.icing.LIGHTWEIGHT_INDEX_SERVICE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+04-14 00:26:11.474   945   945 I Zygote  : Process 7884 exited due to signal 9 (Killed)
+04-14 00:26:11.477  1591  2150 I libprocessgroup: Successfully killed process cgroup uid 10191 pid 8019 in 45ms
+04-14 00:26:11.481   945   945 I Zygote  : Process 8019 exited due to signal 9 (Killed)
+04-14 00:26:11.524  1591  2150 I libprocessgroup: Successfully killed process cgroup uid 10197 pid 7884 in 0ms
+04-14 00:26:12.101  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:12.118  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:12.119  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:12.121  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:12.126 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:12.130 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:12.164  1591  5815 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24160723 mSleepTimeMs=13025971 mIdleTimeMs=2453734 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8193449}
+04-14 00:26:12.213  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:12.437  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:13.255  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:13.363  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:26:13.364  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:26:13.438  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:14.273  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:14.439  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:15.129  7903  7903 D SecurityCenter: ImageLoader clear memory info
+04-14 00:26:15.318  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:15.440  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:16.365  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:16.441  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:17.403  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:17.442  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:18.213  7903  7903 D SecurityCenter: ImageLoader clear memory info
+04-14 00:26:18.443  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:18.449  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:19.445  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:19.465  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:20.196  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:26:20.197  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:26:20.241  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:20.248  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:20.250  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:20.253  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:20.257 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:20.262 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:20.446  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:20.510  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:21.370  6414  6414 I PowerKeeperBackgroundService: onStartCommand()
+04-14 00:26:21.370  6414  6414 I PowerKeeperService: onAlarm
+04-14 00:26:21.447  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:21.553  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:22.448  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:22.563  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:23.448  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:23.610  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:24.449  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:24.657  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:25.450  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:25.703  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:26.450  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:26.743  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:26.756  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:26:26.756  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:26:27.452  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:27.766  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:28.394  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:28.403  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:28.403  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:28.407 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:28.407  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:28.413 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:28.453  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:28.576  1591  2150 I libprocessgroup: Successfully killed process cgroup uid 10077 pid 8041 in 46ms
+04-14 00:26:28.587   945   945 I Zygote  : Process 8041 exited due to signal 9 (Killed)
+04-14 00:26:28.813  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:29.454  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:29.862  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:30.455  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:30.559   945   945 D Zygote  : Forked child process 8970
+04-14 00:26:30.581  8970  8970 I libc    : SetHeapTaggingLevel: tag level set to 0
+04-14 00:26:30.597  8970  8970 I .android.camer: Using CollectorTypeCC GC.
+04-14 00:26:30.606  8970  8970 E .android.camer: Not starting debugger since process cannot load the jdwp agent.
+04-14 00:26:30.609  8970  8970 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+04-14 00:26:30.612  8970  8970 I MessageMonitor: Load libmiui_runtime
+04-14 00:26:30.622  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:30.622  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:30.622  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:30.622 22934 23021 D DurationCollector: updateRecord. beginDate = 2023-04-14, isSameDay = true, infos = [{"beginTime":1681405224991,"appVerCode":5030568,"duration":1565621}]
+04-14 00:26:30.642  8970  8970 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10077; state: DISABLED
+04-14 00:26:30.643  4873  4898 W MQSService: CallerName:com.android.camera,calling Uid:10077
+04-14 00:26:30.643  4873  4898 D MQSService: registerApplicationScoutThread pid = 8970, packageName = com.android.camera
+04-14 00:26:30.657  8970  8970 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+04-14 00:26:30.681  8970  8970 D nativeloader: Configuring classloader-namespace-shared for other apk /system/app/miui/miui.apk. target_sdk_version=29, uses_libraries=ALL, library_path=/system/priv-app/MiuiCamera/lib/arm64:/system/priv-app/MiuiCamera/MiuiCamera.apk!/lib/arm64-v8a:/system/lib64:/system_ext/lib64:/system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk!/lib/arm64-v8a:/system/app/miuisystem/miuisystem.apk!/lib/arm64-v8a:/system/app/miui/miui.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.camera:/system/priv-app/MiuiCamera:/system/lib64:/system_ext/lib64
+04-14 00:26:30.682  8970  8970 D nativeloader: Extending system_exposed_libraries: libcamera_algoup_jni.xiaomi.so:libcamera_mianode_jni.xiaomi.so:libvraudio_client.qti.so:libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libupdateprof.qti.so:libthermalclient.qti.so:libdiag_system.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so
+04-14 00:26:30.705  8970  8970 D nativeloader: Configuring classloader-namespace-shared for other apk /system/app/miuisystem/miuisystem.apk. target_sdk_version=29, uses_libraries=ALL, library_path=/system/priv-app/MiuiCamera/lib/arm64:/system/priv-app/MiuiCamera/MiuiCamera.apk!/lib/arm64-v8a:/system/lib64:/system_ext/lib64:/system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk!/lib/arm64-v8a:/system/app/miuisystem/miuisystem.apk!/lib/arm64-v8a:/system/app/miui/miui.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.camera:/system/priv-app/MiuiCamera:/system/lib64:/system_ext/lib64
+04-14 00:26:30.705  8970  8970 D nativeloader: Extending system_exposed_libraries: libcamera_algoup_jni.xiaomi.so:libcamera_mianode_jni.xiaomi.so:libvraudio_client.qti.so:libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libupdateprof.qti.so:libthermalclient.qti.so:libdiag_system.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so
+04-14 00:26:30.727  8970  8970 D nativeloader: Configuring classloader-namespace-shared for other apk /system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk. target_sdk_version=29, uses_libraries=ALL, library_path=/system/priv-app/MiuiCamera/lib/arm64:/system/priv-app/MiuiCamera/MiuiCamera.apk!/lib/arm64-v8a:/system/lib64:/system_ext/lib64:/system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk!/lib/arm64-v8a:/system/app/miuisystem/miuisystem.apk!/lib/arm64-v8a:/system/app/miui/miui.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.camera:/system/priv-app/MiuiCamera:/system/lib64:/system_ext/lib64
+04-14 00:26:30.727  8970  8970 D nativeloader: Extending system_exposed_libraries: libcamera_algoup_jni.xiaomi.so:libcamera_mianode_jni.xiaomi.so:libvraudio_client.qti.so:libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libupdateprof.qti.so:libthermalclient.qti.so:libdiag_system.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so
+04-14 00:26:30.761  8970  8970 D nativeloader: Configuring classloader-namespace-shared for other apk /system/priv-app/MiuiCamera/MiuiCamera.apk. target_sdk_version=29, uses_libraries=, library_path=/system/priv-app/MiuiCamera/lib/arm64:/system/priv-app/MiuiCamera/MiuiCamera.apk!/lib/arm64-v8a:/system/lib64:/system_ext/lib64:/system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk!/lib/arm64-v8a:/system/app/miuisystem/miuisystem.apk!/lib/arm64-v8a:/system/app/miui/miui.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.camera:/system/priv-app/MiuiCamera:/system/lib64:/system_ext/lib64
+04-14 00:26:30.761  8970  8970 D nativeloader: Extending system_exposed_libraries: libcamera_algoup_jni.xiaomi.so:libcamera_mianode_jni.xiaomi.so:libvraudio_client.qti.so:libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libupdateprof.qti.so:libthermalclient.qti.so:libdiag_system.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so
+04-14 00:26:30.781  8970  8970 I Perf    : Connecting to perf service.
+04-14 00:26:30.790  8970  8970 V GraphicsEnvironment: ANGLE Developer option for 'com.android.camera' set to: 'default'
+04-14 00:26:30.790  8970  8970 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+04-14 00:26:30.805  8970  8970 D OpenGLRenderer: JNI_OnLoad success
+04-14 00:26:30.806  8970  8970 I MiuiForceDarkConfig: setConfig density:2.750000, mainRule:0, secondaryRule:0, tertiaryRule:0
+04-14 00:26:30.809  8970  8970 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+04-14 00:26:30.813  8970  8970 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+04-14 00:26:30.837  8970  8970 D CAM_OooO00o: init proxy = class com.mi.device.Citrus
+04-14 00:26:30.837  8970  8970 D CAM_BoostFrameworkImpl: startBoost: duration = 300, scene = 6
+04-14 00:26:30.837  8970  8970 D CAM_BoostFrameworkImpl: ready to boost
+04-14 00:26:30.838  8970  8970 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+04-14 00:26:30.843  1169  1169 E ANDR-PERF-TARGET: Error: Invalid logical cluster id 2
+04-14 00:26:30.843  1169  1169 E ANDR-PERF-REQUEST: Translate to physical failed
+04-14 00:26:30.843  1169  1169 E ANDR-PERF-TARGET: Error: Invalid logical cluster id 2
+04-14 00:26:30.843  1169  1169 E ANDR-PERF-REQUEST: Translate to physical failed
+04-14 00:26:30.847  8970  8970 D CAM_CameraUtil: could not get packageManager of maintenance mode
+04-14 00:26:30.850  8970  8970 D CAM_CameraAppImpl: totalMemory:5G, maxAcquireCount = 30, maxDequeueCount:4
+04-14 00:26:30.852  8970  8970 D CAM_ImagePool: init: maxAcquireCount=30 maxDequeueCount=4
+04-14 00:26:30.853  8970  8970 D CAM_ImagePool: init: maxAcquireCount=24 maxDequeueCount=4
+04-14 00:26:30.854  8970  8970 D CAM_AlgoConnector: startService: bind LocalParallelService start!
+04-14 00:26:30.872  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:30.872  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:30.872  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:30.876  8970  8970 D CAM_UpgradeManager: migrateForUpgrade previous -> 6, currentVersion -> 450007401
+04-14 00:26:30.877  8970  8970 D CAM_MIVIHelper: requestCloudDataAsync:
+04-14 00:26:30.886  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:30.907  8970  8970 I CAM_PermissionManager: getNeedCheckPermissionList() listSize =0
+04-14 00:26:30.908  8970  8970 I CAM_PermissionManager: checkCameraPermissions(), all on
+04-14 00:26:30.908  8970  8970 D CAM_Camera2CompatAdapterRole: E: init()
+04-14 00:26:30.908  8970  8970 D CAM_Camera2CompatAdapterRole: E: reset()
+04-14 00:26:30.908  8970  8970 D CAM_Camera2CompatAdapterRole: X: reset()
+04-14 00:26:30.908  8970  8970 I CameraManagerGlobal: Connecting to camera service
+04-14 00:26:30.912  1578  1403 W ServiceManager: Permission failure: android.permission.CAMERA_OPEN_CLOSE_LISTENER from uid=10077 pid=8970
+04-14 00:26:30.914  8970  8970 D CameraExtStub: init android.hardware.camera2.impl.CameraExtImplXiaoMi
+04-14 00:26:30.917  8970  8970 I CAM_Camera2CompatAdapterRole: [K_PROCESS]: All available camera ids: [0, 1, 2, 3, 4, 5, 6]
+04-14 00:26:30.935  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.936  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.938  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.938  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.939  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.939  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.940  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.941  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.942  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.943  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.944  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.945  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.946  8970  8970 E VendorTagDescriptor: lookupTag: Tag name 'cameraIds' does not exist.
+04-14 00:26:30.947  8970  8970 W CAM_VendorTagHelper: caution: failed to try get value from camera characteristics: <VTNF>, com.xiaomi.cameraid.role.cameraIds
+04-14 00:26:30.948  8970  8970 E CAM_AlgoConnector: getLocalBinder: failed to get LocalParallelService!
+04-14 00:26:30.949  8970  8970 D CAM_Camera2CompatAdapterRole: X: init()
+04-14 00:26:30.949  8970  8996 D CAM_Camera2CompatAdapterRole: E: initCameraCapabilitiesAsync()
+04-14 00:26:30.949  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 0
+04-14 00:26:30.952  8970  8970 D CAM_CameraWorkExecutor: execute, work queue size: 0
+04-14 00:26:30.953  8970  8970 D CAM_PerfspySettings: listen setting data change from cloud
+04-14 00:26:30.961  8970  8970 D CAM_BoostFrameworkImpl: stopBoost
+04-14 00:26:30.961  8970  8970 D CAM_BoostFrameworkImpl: ready to stop boost
+04-14 00:26:30.962  8970  8970 D CAM_CameraAppImpl: attachBaseContext: cost = 139
+04-14 00:26:30.978  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:30.979  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:30.979  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:30.980  8970  8970 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.android.camera/files: android.os.ServiceSpecificException:  (code -22)
+04-14 00:26:30.986  8970  8970 W ContextImpl: Failed to ensure /storage/343E-1C08/Android/data/com.android.camera/cache: android.os.ServiceSpecificException:  (code -22)
+04-14 00:26:30.987  8970  8970 I CAM_SplashProvider: onCreate:
+04-14 00:26:30.995  8970  8970 V CAM_ParallelProcessProvider: onCreate
+04-14 00:26:31.000  8970  8970 D CAM_BoostFrameworkImpl: startBoost: duration = 300, scene = 6
+04-14 00:26:31.000  8970  8970 D CAM_BoostFrameworkImpl: ready to boost
+04-14 00:26:31.001  1169  1169 E ANDR-PERF-TARGET: Error: Invalid logical cluster id 2
+04-14 00:26:31.001  1169  1169 E ANDR-PERF-REQUEST: Translate to physical failed
+04-14 00:26:31.001  1169  1169 E ANDR-PERF-TARGET: Error: Invalid logical cluster id 2
+04-14 00:26:31.001  1169  1169 E ANDR-PERF-REQUEST: Translate to physical failed
+04-14 00:26:31.004  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.005  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 0
+04-14 00:26:31.005  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 1
+04-14 00:26:31.015  8970  8970 W CAM_Display: supportLandscape invalid.
+04-14 00:26:31.016  8970  8970 W CAM_Display: initialize: windowSize = 1080x2340, appBoundSize = 1080x2340
+04-14 00:26:31.017  8970  8970 V CAM_Display: StatusBarHeight=78
+04-14 00:26:31.018  8970  8970 D CAM_DisplayAdapter: DisplayParameter appBoundWidth:1080,appBoundHeight:2340,isNotchDevice:true,statusBarHeight:78,isInMultiWindow:false, class = DisplayCommonPreviewRect
+04-14 00:26:31.018  8970  8970 W CAM_Display: initialize: sCenterDisplayHeight = 1920, sTopMargin = 78, sTopBarHeight = 171, sBottomMargin = 171, sBottomBarHeight = 480, isNotchDevice = true, mIsInitialized = true
+04-14 00:26:31.019  8970  8970 I CAM_Display: windowSize=1080x2340 density=2.7500
+04-14 00:26:31.020  8970  8970 W CAM_Display: supportLandscape invalid.
+04-14 00:26:31.020  8970  8970 W CAM_Display: initialize: windowSize = 1080x2340, appBoundSize = 1080x2340
+04-14 00:26:31.020  8970  8970 W CAM_Display: initialize skip. caz check screen size
+04-14 00:26:31.030  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.030  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.030  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.030  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.030  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 1
+04-14 00:26:31.030  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 2
+04-14 00:26:31.033  8970  8970 D CAM_ApplicationInit: <application init> consume time:25
+04-14 00:26:31.041  8970  9001 D CAM_CameraAppImpl: Track init start
+04-14 00:26:31.054  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.054  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.054  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.054  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.054  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 2
+04-14 00:26:31.054  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 3
+04-14 00:26:31.056  8970  9001 D OneTrackSdk: updateDebugSwitch sEnable: false sDebugMode：false sDebugProperty：false
+04-14 00:26:31.056  8970  9001 D OneTrackSdk: updateTestSwitch sTestEnable: false sTestMode：false sTestProperty：false
+04-14 00:26:31.056  8970  9001 D OneTrackSdk: log on: false, quick upload on: false
+04-14 00:26:31.062  8970  8970 D CAM_MiCamera2: MiCamera2: preload
+04-14 00:26:31.062  8970  8970 D CAM_BoostFrameworkImpl: stopBoost
+04-14 00:26:31.062  8970  8970 D CAM_BoostFrameworkImpl: ready to stop boost
+04-14 00:26:31.063  8970  8970 D CAM_CameraAppImpl: onCreate: cost = 63
+04-14 00:26:31.067  8970  8970 D CAM_LocalParallelService: onCreate
+04-14 00:26:31.069  8970  8970 D CAM_ReprocessorFactory: reprocessorType = VIRTUAL_CAMERA
+04-14 00:26:31.069  8970  8970 D CAM_ReprocessorFactory: getReprocessor: type = VIRTUAL_CAMERA
+04-14 00:26:31.071  8970  8970 I CAM_VirtualCameraReprocessor: setVTCameraIds: backId=5 frontId=6
+04-14 00:26:31.071  8970  8970 D CAM_ReprocessorFactory: getReprocessor: type = VIRTUAL_CAMERA
+04-14 00:26:31.071  8970  8970 I CAM_VirtualCameraReprocessor: init>>
+04-14 00:26:31.074  8970  8970 I CAM_VirtualCameraReprocessor: init<<
+04-14 00:26:31.075  8970  8970 I CAM_LocalParallelService: starting mivi engine
+04-14 00:26:31.076  8970  8970 D CAM_MiCameraAlgo: init: E
+04-14 00:26:31.076  8970  8970 D CAM_MiCameraAlgo: init: application file path to algorithm lib: /data/user/0/com.android.camera/files
+04-14 00:26:31.077  8970  8970 E CAM_MiCamAlgoInterfaceJNI: start loading camera_algoup_jni.xiaomi
+04-14 00:26:31.080  8970  8970 D CAM_MiCamAlgoInterfaceJNI: static initializer: loadLibrary camera_algoup_jni.xiaomi
+04-14 00:26:31.080  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.080  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.080  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.080  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.080  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 3
+04-14 00:26:31.080  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 4
+04-14 00:26:31.082  8970  8970 E linker  : normalize_path - invalid input: "D", the input path should be absolute
+04-14 00:26:31.082  8970  8970 W linker  : Warning: unable to normalize "D" (ignoring)
+04-14 00:26:31.083  8970  8970 E linker  : normalize_path - invalid input: "\android_tool\android-ndk-r18b\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\7.0.2\lib\linux\aarch64", the input path should be absolute
+04-14 00:26:31.083  8970  8970 W linker  : Warning: unable to normalize "\android_tool\android-ndk-r18b\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\7.0.2\lib\linux\aarch64" (ignoring)
+04-14 00:26:31.087  8970  9001 D OneTrackImp: OneTrackImp init : Configuration{appId='31*******85', pluginId='null', channel='citrus_id_global', international=false, region='null', overrideMiuiRegionSetting=false, mode=APP, GAIDEnable=true, IMSIEnable=true, IMEIEnable=true, ExceptionCatcherEnable=true, instanceId=null}
+04-14 00:26:31.088  8970  9001 D OneTrackSdk: updateDebugSwitch sEnable: false sDebugMode：false sDebugProperty：false
+04-14 00:26:31.088  8970  9001 D OneTrackSdk: updateTestSwitch sTestEnable: false sTestMode：false sTestProperty：false
+04-14 00:26:31.088  8970  9001 D CAM_CameraAppImpl: markAllDepartedTask>>8970
+04-14 00:26:31.089  8970  8970 W linker  : Warning: "/vendor/lib64/libxmi_high_dynamic_range.so" unused DT entry: DT_RPATH (type 0xf arg 0x1107) (ignoring)
+04-14 00:26:31.089  8970  8970 E linker  : normalize_path - invalid input: "D", the input path should be absolute
+04-14 00:26:31.089  8970  8970 W linker  : Warning: unable to normalize "D" (ignoring)
+04-14 00:26:31.089  8970  8970 E linker  : normalize_path - invalid input: "\android_tool\android-ndk-r18b\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\7.0.2\lib\linux\aarch64", the input path should be absolute
+04-14 00:26:31.089  8970  8970 W linker  : Warning: unable to normalize "\android_tool\android-ndk-r18b\toolchains\llvm\prebuilt\windows-x86_64\lib64\clang\7.0.2\lib\linux\aarch64" (ignoring)
+04-14 00:26:31.089  8970  8970 W linker  : Warning: "/vendor/lib64/libalCFR.so" unused DT entry: DT_RPATH (type 0xf arg 0x4151) (ignoring)
+04-14 00:26:31.089  8970  8970 W linker  : Warning: "/vendor/lib64/libmiai_supernight.so" unused DT entry: DT_RPATH (type 0xf arg 0xdc3) (ignoring)
+04-14 00:26:31.089  8970  8970 W linker  : Warning: "/vendor/lib64/libmibokeh_712.so" unused DT entry: DT_RPATH (type 0xf arg 0x1acd) (ignoring)
+04-14 00:26:31.099  8970  9001 D CAM_CameraAppImpl: markAllDepartedTask<<
+04-14 00:26:31.100  8970  9001 I CAM_CameraAppImpl: [K_PROCESS]: load +
+04-14 00:26:31.107  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.107  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.107  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.108  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.108  8970  9001 D CAM_Camera2CompatAdapter: Warning: getCurrentCameraCapabilities(): mCurrentOpenedCameraId is invalid.
+04-14 00:26:31.108  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 4
+04-14 00:26:31.108  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 5
+04-14 00:26:31.113  8970  9001 I CAM_PerformanceManager: [P_PERFORM]: Action: feature load_163_1 takes 7 ms
+04-14 00:26:31.114  8970  9001 I CAM_CameraAppImpl: [K_PROCESS]: load -
+04-14 00:26:31.119  8970  9001 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.misys@1.0::IMiSys/default
+04-14 00:26:31.122  8970  9001 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.misys@2.0::IMiSys/default
+04-14 00:26:31.123  8970  9001 D CAM_WatermarkMiSysUtils: file citrus_main_space_custom_watermark.png isExist for iMiSys20.IsExists:true
+04-14 00:26:31.126  8970  9001 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.misys@1.0::IMiSys/default
+04-14 00:26:31.128  8970  9001 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.xiaomi.hardware.misys@2.0::IMiSys/default
+04-14 00:26:31.129  8970  9001 D CAM_WatermarkMiSysUtils: file citrus_other_space_cinematic_ratio_custom_watermark.png isExist for iMiSys20.IsExists:true
+04-14 00:26:31.135  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.136  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.136  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.136  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.136  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 5
+04-14 00:26:31.136  8970  8996 D CAM_Camera2CompatAdapter: E: initCameraCapabilitiesByCameraId(): 6
+04-14 00:26:31.161  8970  8996 D CAM_CameraCapabilities: QuickShotDelayTime tag not defined
+04-14 00:26:31.161  8970  8996 D CAM_CameraCapabilities: HQQuickShot: mFeatureMask: 0   mDelayTimeMask: 0
+04-14 00:26:31.161  8970  8996 D CAM_CameraCapabilities: MiviSuperNight: mSuperNightMask: 0
+04-14 00:26:31.161  8970  8996 D CAM_CameraCapabilities: getBeautyVersionData: 3 ,beautyVersion: 3 ,beautyAlgo: 1
+04-14 00:26:31.161  8970  8996 D CAM_Camera2CompatAdapter: X: initCameraCapabilitiesByCameraId(): 6
+04-14 00:26:31.161  8970  8996 D CAM_Camera2CompatAdapterRole: X: initCameraCapabilitiesAsync()
+04-14 00:26:31.163  8970  8996 D CAM_Camera2CompatAdapterRole: role:   0 ( 68,4°) <->  0
+04-14 00:26:31.163  8970  8996 D CAM_Camera2CompatAdapterRole: role:   1 ( 66,6°) <->  1
+04-14 00:26:31.164  8970  8996 D CAM_Camera2CompatAdapterRole: role:  22 ( 72,3°) <->  3
+04-14 00:26:31.164  8970  8996 D CAM_Camera2CompatAdapterRole: role:  25 ( 71,6°) <->  2
+04-14 00:26:31.165  8970  8996 D CAM_Camera2CompatAdapterRole: role:  61 ( 68,4°) <->  4 = [0, 2]
+04-14 00:26:31.165  8970  8996 D CAM_Camera2CompatAdapterRole: role: 100 ( 68,4°) <->  5
+04-14 00:26:31.165  8970  9001 D CAM_Coverage: ClassNotFoundException:
+04-14 00:26:31.166  8970  8996 D CAM_Camera2CompatAdapterRole: role: 101 ( 66,6°) <->  6
+04-14 00:26:31.168  8970  9001 D CAM_HybridZoomingSystem: [1.0, 2.0]
+04-14 00:26:31.236  8970  8970 I sr_android: so and model file match
+04-14 00:26:31.239  8970  8970 I MI_Algo_JNI: init: open /vendor/lib64/libmialgoengine.so with handle: 0x17828c27a5f59b81
+04-14 00:26:31.239  8970  8970 I MI_Algo_JNI: init: open function pointer: 0x7702c947b0
+04-14 00:26:31.240  8970  8970 I MI_Algo_JNI: init: mCAI = 0x7702ce0440
+04-14 00:26:31.240  8970  8970 I MI_Algo_JNI: init: MIAGetApiVersion pointer: 0x0
+04-14 00:26:31.240  8970  8970 I MI_Algo_JNI: init: calFilePath = /data/user/0/com.android.camera/files
+04-14 00:26:31.240  8970  8970 D MIA_INTF: [MIAInit:34]:E
+04-14 00:26:31.240  8970  8970 D MIA_SRVC: [MiaService:28]:E 0x77063a7980
+04-14 00:26:31.245  8970  8970 D MIA_SRVC: [MiaService:38]:success to load perflock lib
+04-14 00:26:31.246  8970  8970 I MIA_SRVC: [init:60]:E
+04-14 00:26:31.246  8970  8970 I MIA_SRVC: [init:73]:get bokeh calFilePath: /data/user/0/com.android.camera/files
+04-14 00:26:31.246  8970  8970 I BASS    : [device_Init()]:[29] DEVICE PROJECT [BASS] VERSION[1] RELEASE[0] INIT
+04-14 00:26:31.246  8970  8970 D CAM_MiCameraAlgo: init: succeed
+04-14 00:26:31.246  8970  8970 D CAM_MiCameraAlgo: init: X
+04-14 00:26:31.246  8970  8970 I CAM_PerformanceManager: [P_PERFORM]: Action: initMiviEngine_163_1 takes 171 ms
+04-14 00:26:31.247  8970  8970 D CAM_LocalParallelService: onBind
+04-14 00:26:31.247  8970  8970 I CAM_PerformanceManager: [P_PERFORM]: Action: bindParallelService_163_1 takes 388 ms
+04-14 00:26:31.272  8970  9001 I Split:MultiDex: VM with version 2.1.0 has multidex support
+04-14 00:26:31.276  8970  8970 D CAM_AlgoConnector: onServiceConnected: ComponentInfo{com.android.camera/com.android.camera.LocalParallelService}, binder = com.android.camera.LocalParallelService$LocalBinder@8a561c6
+04-14 00:26:31.276  8970  8970 D CAM_AlgoConnector: onServiceConnected: accepted!!!
+04-14 00:26:31.280  1591  2150 I libprocessgroup: Successfully killed process cgroup uid 10221 pid 7555 in 23ms
+04-14 00:26:31.291  7476  7553 W cr_ChildProcessConn: onServiceDisconnected (crash or killed by oom): pid=7555 bindings:W  S
+04-14 00:26:31.292  7476  7476 E chromium: [ERROR:gpu_process_host.cc(942)] GPU process exited unexpectedly: exit_code=0
+04-14 00:26:31.292  7476  7476 W chromium: [WARNING:gpu_process_host.cc(1292)] The GPU process has crashed 1 time(s)
+04-14 00:26:31.294  8970  9001 I CAM_PerformanceManager: [P_PERFORM]: Action: loading_class_163_1 takes 155 ms
+04-14 00:26:31.294  8970  9001 D CAM_CameraAppImpl: LoadClassUseInLaunch<<
+04-14 00:26:31.298   946   946 I Zygote  : Process 7555 exited due to signal 9 (Killed)
+04-14 00:26:31.456  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:31.930  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:32.010  8093  8870 I htmlviewercloudcontrol: isStagingEnv:false param =  camera_v4  uriMatch = 2
+04-14 00:26:32.018  8970  8998 V CAM_MIVIHelper: [WTP]requestCloudData: E
+04-14 00:26:32.019  8970  8998 D CAM_MIVIHelper: getStringFromLocalFile E >> /data/user/0/com.android.camera/cache/mivi_info.json
+04-14 00:26:32.020  8970  8998 D CAM_MIVIHelper: getStringFromLocalFile: X return null
+04-14 00:26:32.020  8970  8998 D CAM_MIVIHelper: listenSettingDataChange:
+04-14 00:26:32.024  8970  8998 V CAM_MIVIHelper: [WTP]requestCloudData: X
+04-14 00:26:32.457  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:32.968  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:33.457  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:33.974  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:34.444  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+04-14 00:26:34.458  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:35.021  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:35.459  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:36.063  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:36.072  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:26:36.072  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:26:36.094  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:26:36.094  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:26:36.460  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:36.518  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:36.523  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:36.525  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:36.529  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:36.531 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:36.537 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:37.088  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:37.462  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:38.126  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:38.310  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:26:38.311  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:26:38.463  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:39.174  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:39.448  1591  2561 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+04-14 00:26:39.464  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:40.182  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:40.465  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:40.946  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x4, 12355681, channel '68c4518 NavigationBar0 (server)'
+04-14 00:26:40.947  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x4, 12355681, channel 'ffb286f LauncherMinusOneScreen (server)'
+04-14 00:26:40.948  3159  3159 D EventBus: No subscribers registered for event class com.miui.home.launcher.common.messages.EndSpringAnimatorMessage
+04-14 00:26:40.948  3159  3159 D EventBus: No subscribers registered for event class org.greenrobot.eventbus.NoSubscriberEvent
+04-14 00:26:40.950  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x0, 12355681, channel '95a9f0f com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+04-14 00:26:40.950  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x0, 12355681, channel '2115f4f com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+04-14 00:26:40.950  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x0, 12355681, channel '9a4b1aa com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+04-14 00:26:40.951  3159  3159 D FeedSwipeController: touchState : 0 scrolling : false normalEditing : false WidgetThumbnailViewShowing : false UninstallDialogShowing : false isMinusScreenShowing: false
+04-14 00:26:40.951  3159  3159 D FeedSwipeController: can not use
+04-14 00:26:40.951  3159  3159 D Launcher.StatusBarController: can't intercept touch because launcher isn't in NORMAL
+04-14 00:26:40.955  3159  3159 D Launcher.itemIcon: folmeDown
+04-14 00:26:40.956  1169  1321 W ANDR-PERF-LM: FeatureState: readState() 151: warning: appName is NULL, returning default State
+04-14 00:26:40.956  1169  1321 W ANDR-PERF-LM: FeatureState: readState() 151: warning: appName is NULL, returning default State
+04-14 00:26:40.956  1169  1321 W ANDR-PERF-LM: MetaMeter: handleSecondaryAsync() 151: PreKill MetaMeterThread start(). No MeterMgr Available to handle this Secondary/Data Async. !!!!
+04-14 00:26:40.982  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x1, 12355719, channel '95a9f0f com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+04-14 00:26:40.982  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x1, 12355719, channel '2115f4f com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+04-14 00:26:40.982  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x1, 12355719, channel '9a4b1aa com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+04-14 00:26:40.984  3159  3159 D Launcher.itemIcon: folmeUp
+04-14 00:26:40.986  3159  3159 E QuickstepAppTransitionManagerImpl: getActivityLaunchOptions   iconLoc=Rect(859, 1174 - 1031, 1346)
+04-14 00:26:41.002  1169  3996 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+04-14 00:26:41.004  1591  3312 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+04-14 00:26:41.013  1150  3965 E ANDR-IOP: io prefetch is disabled
+04-14 00:26:41.016  1591  3312 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:41.016  1591  3312 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:41.016  1591  3312 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:41.019  1591  3312 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+04-14 00:26:41.027  3149  3149 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.statusbar.phone.NotificationShadeWindowView{b1e2c25 I.E...... ......ID 0,0-1080,2340} canPanelBeCollapsed(): false
+04-14 00:26:41.029  3159  3600 D TaskStackChangeListeners: onTaskDisplayChanged =  taskId = 8713 newDisplayId = 0
+04-14 00:26:41.031  3159  3159 D Launcher.Lifecycle: onPause:UserHandle{0},ea335fd,true
+04-14 00:26:41.031  3159  3159 D Launcher_UnlockAnimationStateMachine: onPause = IDLE
+04-14 00:26:41.031  3159  3159 D Launcher_UnlockAnimationStateMachine: setState:PAUSE_WAIT
+04-14 00:26:41.043  1591  4829 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:41.043  1591  4829 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:41.043  1591  4829 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:41.044  1591  4846 E ActivityManager: Sending non-protected broadcast thermalManagerCurrentActivity from system 6414:com.miui.powerkeeper/1000 pkg com.miui.powerkeeper
+04-14 00:26:41.044  1591  4846 E ActivityManager: java.lang.Throwable
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:13189)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13794)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13207)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:14048)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2439)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2561)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at android.os.Binder.execTransactInternal(Binder.java:1182)
+04-14 00:26:41.044  1591  4846 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:1146)
+04-14 00:26:41.045  1591  4846 E ActivityManager: Sending non-protected broadcast thermalManagerCurrentActivity from system 6414:com.miui.powerkeeper/1000 pkg com.miui.powerkeeper
+04-14 00:26:41.045  1591  4846 E ActivityManager: java.lang.Throwable
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:13189)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13889)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13207)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:14048)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2439)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2561)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at android.os.Binder.execTransactInternal(Binder.java:1182)
+04-14 00:26:41.045  1591  4846 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:1146)
+04-14 00:26:41.060  6414 10123 D PerfEngineController: ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10713, mForegroundPid=8940, mLastForegroundPackageName='com.mi.android.globallauncher', mLastForegroundUid=10076, mLastForegroundPid=3159, mMultiWindowForegroundPackageName='com.example.dogglers', mMultiWindowForegroundUid=10713, mFlags=0}
+04-14 00:26:41.060 11258 11270 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10713, mForegroundPid=8940, mLastForegroundPackageName='com.mi.android.globallauncher', mLastForegroundUid=10076, mLastForegroundPid=3159, mMultiWindowForegroundPackageName='com.example.dogglers', mMultiWindowForegroundUid=10713, mFlags=0}
+04-14 00:26:41.060 12559 13376 D AutoInstallService: onForegroundInfoChanged: com.example.dogglers
+04-14 00:26:41.060  6433  6592 I GST     : forePkg: com.example.dogglers, preForePkg: com.mi.android.globallauncher
+04-14 00:26:41.060  3159  6190 D AppObserver: ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10713, mForegroundPid=8940, mLastForegroundPackageName='com.mi.android.globallauncher', mLastForegroundUid=10076, mLastForegroundPid=3159, mMultiWindowForegroundPackageName='com.example.dogglers', mMultiWindowForegroundUid=10713, mFlags=0}
+04-14 00:26:41.062  6414  6797 D ThermalIECHandler: IECAll48Allowed: false; IECMonitorAllowed: false; IECTestState: false
+04-14 00:26:41.062  6414  6777 D LS-ForegroundStatusManager: handleMessage ForegroundInfoChanged. pkg = com.example.dogglers, uid = 10713, mCurrentForegroundUid = 10076
+04-14 00:26:41.062  6414  6777 D LS-ForegroundStatusManager: onForegroundChanged mCurrentForegroundUid = 10076, new uid = 10713
+04-14 00:26:41.062 11258 11270 I GameBoosterService: onForegroundInfoChanged: Cur=com.example.dogglers	 last=com.mi.android.globallauncher
+04-14 00:26:41.063  6414  6610 I ThermalInfoCollector: collectForgroundAppsInfo: com.mi.android.globallauncher
+04-14 00:26:41.055  6414  6414 W ThermalInfoColl: type=1400 audit(0.0:9026): avc: denied { search } for name="battery" dev="sysfs" ino=49916 scontext=u:r:system_app:s0 tcontext=u:object_r:vendor_sysfs_battery_supply:s0 tclass=dir permissive=0
+04-14 00:26:41.066  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.066  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.072  3159  3159 D Launcher.Lifecycle: onWindowFocusChanged:false,UserHandle{0},ea335fd,true
+04-14 00:26:41.072  3159  3159 D DecorView[Launcher]: onWindowFocusChanged hasWindowFocus false
+04-14 00:26:41.073  8940  8957 D AppScoutStateMachine: 8940-ScoutStateMachinecreated
+04-14 00:26:41.078 11258 11270 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.example.dogglers', mForegroundUid=10713, mForegroundPid=8940, mLastForegroundPackageName='com.mi.android.globallauncher', mLastForegroundUid=10076, mLastForegroundPid=3159, mMultiWindowForegroundPackageName='com.example.dogglers', mMultiWindowForegroundUid=10713, mFlags=0}
+04-14 00:26:41.078 11258 11270 I VideoBoxUtils: isSupportVideoBox: true
+04-14 00:26:41.079 11258 11270 I VideoToolBoxService: vtb is closed!!!
+04-14 00:26:41.080  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.081  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.082  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:26:41.085  1591  2497 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:41.085  1591  2497 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:41.085  1591  2497 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:41.089 23886 23886 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+04-14 00:26:41.090 23886 23886 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+04-14 00:26:41.108  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:41.108  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:41.113  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.113  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.114  3159  6190 E LauncherAnimationRunner: onAnimationStart
+04-14 00:26:41.114  3159  6190 E LauncherAnimationRunner: onAnimationStart:   mode=1   taskId=2   isTranslucent=false
+04-14 00:26:41.114  3159  6190 E LauncherAnimationRunner: onAnimationStart:   mode=0   taskId=8713   isTranslucent=false
+04-14 00:26:41.114  3159  3159 E QuickstepAppTransitionManagerImpl: startIconLaunchAnimator:launcherClosing=true   iconLoc=Rect(859, 1174 - 1031, 1346)
+04-14 00:26:41.115  3159  3159 E QuickstepAppTransitionManagerImpl: startOpeningWindowAnimators:iconLoc=Rect(859, 1174 - 1031, 1346)
+04-14 00:26:41.115  3159  3159 E ClipAnimationHelper: updateSourceStack  mSourceInsets=Rect(0, 78 - 0, 44), mSourceStackBounds=Rect(0, 0 - 1080, 2340)
+04-14 00:26:41.115  3159  3159 E ClipAnimationHelper: updateHomeStack  mSourceInsets=Rect(0, 78 - 0, 44), mHomeStackBounds=Rect(0, 0 - 1080, 2340)
+04-14 00:26:41.115  3159  3159 E ClipAnimationHelper: updateTargetRect  mSourceRect=RectF(0.0, 78.0, 1080.0, 2418.0)   mTargetRect=RectF(0.0, 0.0, 1080.0, 2340.0)   mSourceWindowClipInsets=RectF(0.0, 78.0, 0.0, 0.0)   mHomeStackBounds=Rect(0, 0 - 1080, 2340)   targetRect=Rect(0, 0 - 1080, 2340)
+04-14 00:26:41.116  3159  3159 I QuickstepAppTransitionManagerImpl: startOpeningWindowAnimators, currentDisplayRotation=0, homeRotation=0, startRectF=RectF(865.0, 1180.0, 1025.0, 1340.0), endRectF=RectF(0.0, 0.0, 1080.0, 2340.0), startRadius = 243.0, endRadius = 104.0, isUseTranslucentAnim = false
+04-14 00:26:41.117  3159  7400 W FloatingIconLayer: getFloatingIconLayer
+04-14 00:26:41.117  3159  3159 E QuickstepAppTransitionManagerImpl: startLauncherContentAnimator:isAppOpening=true
+04-14 00:26:41.118  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.118  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.121  3159  7400 W FloatingIconLayer: drawIcon
+04-14 00:26:41.122  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.123  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.142  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.143  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.149 11258 11270 I SCTaskStackListener: onTaskStackChanged! inSplit = false
+04-14 00:26:41.149 11258 11271 I SCTaskStackListener: onTaskStackChanged! inSplit = false
+04-14 00:26:41.149  6414 10123 I MultiScreenObserver: onTaskStackChanged, splitScreenMode: false isCameraFloat: false isSmallScreen: false
+04-14 00:26:41.149  3159  4525 D RecentsModel: onTaskStackChangedBackground
+04-14 00:26:41.150  3159  3501 D RecentsModel: onTaskStackChangedBackground    MSG_TASK_STACK_CHANGE
+04-14 00:26:41.150  3159  3501 D RecentsModel: preloadRecents
+04-14 00:26:41.150  3159  3501 W RecentsModel: getRunningTask
+04-14 00:26:41.151  3159  3501 W RecentsModel: getRunningTask   taskInfo=TaskInfo{userId=0 taskId=8713 displayId=0 isRunning=true baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity } baseActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} topActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} origActivity=null realActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} numActivities=1 lastActiveTime=24189710 supportsSplitScreenMultiWindow=true supportsMultiWindow=true resizeMode=1 isResizeable=true token=WCT{android.window.IWindowContainerToken$Stub$Proxy@66a5b08} topActivityType=1 pictureInPictureParams=PictureInPictureParams( aspectRatio=null sourceRectHint=null hasSetActions=false isAutoPipEnabled=false isSeamlessResizeEnabled=true) displayCutoutSafeInsets=Rect(0, 78 - 0, 0) topActivityInfo=ActivityInfo{33562a1 com.example.dogglers.MainActivity} launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=false isVisible=true topActivityInSizeCompat=false locusId= null windowMode=0}
+04-14 00:26:41.151  3159  3501 W RecentsModel: getTaskInfoIgnoreHomeAndFreeform   taskInfo=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity}
+04-14 00:26:41.153  3159  3501 E ActivityManagerWrapper: get all recent tasks force including 8713
+04-14 00:26:41.155  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.155  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.156  3159  3501 E ActivityManagerWrapper: getRecentTasks: size=1
+04-14 00:26:41.156  3159  3501 E ActivityManagerWrapper: getRecentTasks: taskId=8713   userId=0   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} }
+04-14 00:26:41.158  3159  3227 D StatusBarController: handleMessage: flag 800000  disable false
+04-14 00:26:41.172  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: PRE_ON_CREATE
+04-14 00:26:41.172  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:41.175  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.178  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.191  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.191  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.203  3159  7400 W FloatingIconLayer: release
+04-14 00:26:41.208  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.212  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.222  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.224  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.227  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:41.241  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.241  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.254  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.254  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.270  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.270  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.286  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.287  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.303  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.304  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.306  8940  8940 D IS_CTS_MODE: false
+04-14 00:26:41.306  8940  8940 D MULTI_WINDOW_SWITCH_ENABLED: false
+04-14 00:26:41.307  8940  8940 D IS_CTS_MODE: false
+04-14 00:26:41.307  8940  8940 D MULTI_WINDOW_SWITCH_ENABLED: false
+04-14 00:26:41.308  8940  8940 D IS_CTS_MODE: false
+04-14 00:26:41.308  8940  8940 D MULTI_WINDOW_SWITCH_ENABLED: false
+04-14 00:26:41.311  8940  8940 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+04-14 00:26:41.320  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.320  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.332  3159  3159 D Launcher_UnlockAnimationStateMachine: mResetIdleStateRunnable
+04-14 00:26:41.337  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.337  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.350  8940  8940 W xample.doggler: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+04-14 00:26:41.350  8940  8940 W xample.doggler: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+04-14 00:26:41.354  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.354  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.358  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: CREATED
+04-14 00:26:41.359  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:41.361  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: STARTED
+04-14 00:26:41.362  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:41.366  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: RESUMED
+04-14 00:26:41.366  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:41.370  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.370  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.387  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.387  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.395  3159  3159 D RecentsImpl: mActivityStateObserver com.example.dogglers.MainActivity
+04-14 00:26:41.395  3159  3159 W RecentsImpl: onResumed className=com.example.dogglers.MainActivity   mIsInAnotherPro=false   isKeyguardLocked=false
+04-14 00:26:41.395  3159  3328 W RecentsImpl: disableTouchBySwipeStatusBar    disable=false
+04-14 00:26:41.395  3159  3328 D GestureStubView_Touch: disableTouchBySwipeStatusBar    old=false   new=false
+04-14 00:26:41.395  3159  3328 D GestureStubView_Touch: disableTouchBySwipeStatusBar    old=false   new=false
+04-14 00:26:41.395  3159  3328 W RecentsImpl: disableBackStubWindow    disableTouch=false
+04-14 00:26:41.395  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:41.395  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:41.395  3159  3328 D RecentsImpl: showBackStubWindow  hasNavigationBar=true
+04-14 00:26:41.396  3159  3328 D GestureStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:41.396  3159  3328 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+04-14 00:26:41.396  3159  3328 D GestureStubView: resetRenderProperty: showGestureStub   isLayoutParamChanged=false
+04-14 00:26:41.396  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:41.396  3159  3328 D GestureStubView: showGestureStub
+04-14 00:26:41.396  3159  3328 D GestureStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:41.396  3159  3329 D RecentsImpl: showNavStubView
+04-14 00:26:41.396  3159  3329 D NavStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:41.396  3159  3328 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+04-14 00:26:41.396  3159  3328 D GestureStubView: resetRenderProperty: showGestureStub   isLayoutParamChanged=false
+04-14 00:26:41.396  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:41.396  3159  3328 D GestureStubView: showGestureStub
+04-14 00:26:41.403  3159  3328 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+04-14 00:26:41.403  3159  3328 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+04-14 00:26:41.406  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.406  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.420  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.420  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.439  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: QUALCOMM build                   : 1a315fd02c, I090e68fbb7
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Build Date                       : 12/01/21
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.16
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Local Branch                     :
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Remote Branch                    :
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Remote Branch                    :
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Reconstruct Branch               :
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+04-14 00:26:41.440  8940  9036 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+04-14 00:26:41.441  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.445  8940  9036 I AdrenoGLES-0: PFP: 0x016ee197, ME: 0x00000000
+04-14 00:26:41.454  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.454  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.461  1147  1366 I SDM     : HWCDisplay::GetColorModeCount: Supported color mode count = 1
+04-14 00:26:41.461  1147  1366 I SDM     : HWCDisplay::GetColorModes: Color mode = 0 is supported
+04-14 00:26:41.462  8940  9036 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+04-14 00:26:41.466  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:41.472  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.472  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.484  8940  9036 D xample.doggler: MiuiProcessManagerServiceStub setSchedFifo
+04-14 00:26:41.484  8940  9036 I MiuiProcessManagerImpl: setSchedFifo pid:8940, mode:3
+04-14 00:26:41.487  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.488  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.504  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.504  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.520  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.520  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.537  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.537  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.546  8940  9036 E xample.doggler: open libmigui.so failed! dlopen - dlopen failed: library "libmigui.so" not found
+04-14 00:26:41.558  1591  2064 W ziparchive: Unable to open '/data/app/~~ssaSCAF3FVkxlrLgsGwOYg==/com.example.dogglers-qADqHaWy6kfDgW05mNzp-Q==/base.dm': No such file or directory
+04-14 00:26:41.559  1169  3996 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+04-14 00:26:41.563  1591  3312 W InputManager-JNI: Input channel object 'd089051 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+04-14 00:26:41.567  1591  2064 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +567ms
+04-14 00:26:41.568  1169  3996 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+04-14 00:26:41.572  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.573  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.577  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.577  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.583  8940  8940 D DecorView[]: onWindowFocusChanged hasWindowFocus true
+04-14 00:26:41.588  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.588  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.605  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.605  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.622  2716  3316 W OpenGLRenderer: Surface doesn't have any previously queued frames, nothing to readback from
+04-14 00:26:41.622  2716  2793 D HomeWallpaperRenderer: OFFSET  x: 1.0  y: 0.0
+04-14 00:26:41.628  3159  3159 E LauncherAnimationRunner: finish: mFinishRunnable.run
+04-14 00:26:41.649  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:26:41.659  3159  3159 D Launcher.Lifecycle: onStop:UserHandle{0},ea335fd,false
+04-14 00:26:41.659  3159  3159 D Launcher_UnlockAnimationStateMachine: onStop = IDLE
+04-14 00:26:41.881  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:26:41.884  3283  7510 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+04-14 00:26:41.884  3283  7510 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+04-14 00:26:41.888  3283  7510 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+04-14 00:26:41.894  3283  7510 I FontLog : Pulling font file for id = 241, cache size = 6 [CONTEXT service_id=132 ]
+04-14 00:26:41.900  3283  7510 I FontLog : Pulling font file for id = 241, cache size = 6 [CONTEXT service_id=132 ]
+04-14 00:26:42.269  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:42.466  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:43.061  1591  4840 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:43.061  1591  4840 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:43.061  1591  4840 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:43.073  1591  5815 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:43.073  1591  5815 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:43.073  1591  5815 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:43.076  1591  5815 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:43.076  1591  5815 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:43.076  1591  5815 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:43.302  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:43.407  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x4, 12358144, channel '68c4518 NavigationBar0 (server)'
+04-14 00:26:43.407  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x0, 12358144, channel 'bf1a96d com.example.dogglers/com.example.dogglers.MainActivity (server)'
+04-14 00:26:43.408  1169  1321 W ANDR-PERF-LM: FeatureState: readState() 151: warning: appName is NULL, returning default State
+04-14 00:26:43.408  1169  1321 W ANDR-PERF-LM: FeatureState: readState() 151: warning: appName is NULL, returning default State
+04-14 00:26:43.445  1169  3994 E ANDR-PERF-LM: DependentServices: getServices() 97: Service Tracker HAL could not find Client Connections
+04-14 00:26:43.464  1591  2539 D MIUIInput: [MotionEvent] publisher action=0x1, 12358202, channel 'bf1a96d com.example.dogglers/com.example.dogglers.MainActivity (server)'
+04-14 00:26:43.466  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:43.495  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:43.495  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:43.495  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:43.497  1591  4846 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+04-14 00:26:43.512  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: PAUSED
+04-14 00:26:43.512  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:43.518  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:43.518  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:43.518  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:43.522  1591  4840 E ActivityManager: Sending non-protected broadcast thermalManagerCurrentActivity from system 6414:com.miui.powerkeeper/1000 pkg com.miui.powerkeeper
+04-14 00:26:43.522  1591  4840 E ActivityManager: java.lang.Throwable
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:13189)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13794)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13207)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:14048)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2439)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2561)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.os.Binder.execTransactInternal(Binder.java:1182)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:1146)
+04-14 00:26:43.522  1591  4840 E ActivityManager: Sending non-protected broadcast thermalManagerCurrentActivity from system 6414:com.miui.powerkeeper/1000 pkg com.miui.powerkeeper
+04-14 00:26:43.522  1591  4840 E ActivityManager: java.lang.Throwable
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:13189)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13889)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:13207)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:14048)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2439)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2561)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.os.Binder.execTransactInternal(Binder.java:1182)
+04-14 00:26:43.522  1591  4840 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:1146)
+04-14 00:26:43.527  1591  2624 D ProcessManager: skip notify foregroundAppInfo:ApplicationInfo{7585180 com.example.dogglers}
+04-14 00:26:43.551  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@9d16c64 in: PRE_ON_CREATE
+04-14 00:26:43.552  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity }, activity=com.example.dogglers.HorizontalListActivity@9d16c64
+04-14 00:26:43.585  8940  8940 D IS_CTS_MODE: false
+04-14 00:26:43.585  8940  8940 D MULTI_WINDOW_SWITCH_ENABLED: false
+04-14 00:26:43.588  8940  8940 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+04-14 00:26:43.606  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@9d16c64 in: CREATED
+04-14 00:26:43.607  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity }, activity=com.example.dogglers.HorizontalListActivity@9d16c64
+04-14 00:26:43.609  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@9d16c64 in: STARTED
+04-14 00:26:43.610  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity }, activity=com.example.dogglers.HorizontalListActivity@9d16c64
+04-14 00:26:43.613  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@9d16c64 in: RESUMED
+04-14 00:26:43.613  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.HorizontalListActivity }, activity=com.example.dogglers.HorizontalListActivity@9d16c64
+04-14 00:26:43.623  3159  4525 D RecentsModel: onTaskStackChangedBackground
+04-14 00:26:43.623  3159  3501 D RecentsModel: onTaskStackChangedBackground    MSG_TASK_STACK_CHANGE
+04-14 00:26:43.623  3159  3501 D RecentsModel: preloadRecents
+04-14 00:26:43.623  3159  3501 W RecentsModel: getRunningTask
+04-14 00:26:43.625  6414 10123 I MultiScreenObserver: onTaskStackChanged, splitScreenMode: false isCameraFloat: false isSmallScreen: false
+04-14 00:26:43.625 11258 11271 I SCTaskStackListener: onTaskStackChanged! inSplit = false
+04-14 00:26:43.625 11258 11270 I SCTaskStackListener: onTaskStackChanged! inSplit = false
+04-14 00:26:43.625  3159  3501 W RecentsModel: getRunningTask   taskInfo=TaskInfo{userId=0 taskId=8713 displayId=0 isRunning=true baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity } baseActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} topActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.HorizontalListActivity} origActivity=null realActivity=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} numActivities=2 lastActiveTime=24192184 supportsSplitScreenMultiWindow=true supportsMultiWindow=true resizeMode=1 isResizeable=true token=WCT{android.window.IWindowContainerToken$Stub$Proxy@bce213f} topActivityType=1 pictureInPictureParams=PictureInPictureParams( aspectRatio=null sourceRectHint=null hasSetActions=false isAutoPipEnabled=false isSeamlessResizeEnabled=true) displayCutoutSafeInsets=Rect(0, 78 - 0, 0) topActivityInfo=ActivityInfo{a9f8a0c com.example.dogglers.HorizontalListActivity} launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=false isVisible=true topActivityInSizeCompat=false locusId= null windowMode=0}
+04-14 00:26:43.625  3159  3501 W RecentsModel: getTaskInfoIgnoreHomeAndFreeform   taskInfo=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity}
+04-14 00:26:43.626  3159  3501 E ActivityManagerWrapper: get all recent tasks force including 8713
+04-14 00:26:43.627  3159  3501 E ActivityManagerWrapper: getRecentTasks: size=1
+04-14 00:26:43.627  3159  3501 E ActivityManagerWrapper: getRecentTasks: taskId=8713   userId=0   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} }
+04-14 00:26:43.646  3159  3159 D RecentsImpl: mActivityStateObserver com.example.dogglers.HorizontalListActivity
+04-14 00:26:43.647  3159  3159 W RecentsImpl: onResumed className=com.example.dogglers.HorizontalListActivity   mIsInAnotherPro=false   isKeyguardLocked=false
+04-14 00:26:43.647  3159  3328 W RecentsImpl: disableTouchBySwipeStatusBar    disable=false
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: disableTouchBySwipeStatusBar    old=false   new=false
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: disableTouchBySwipeStatusBar    old=false   new=false
+04-14 00:26:43.647  3159  3328 W RecentsImpl: disableBackStubWindow    disableTouch=false
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:43.647  3159  3328 D RecentsImpl: showBackStubWindow  hasNavigationBar=true
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:43.647  3159  3328 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+04-14 00:26:43.647  3159  3328 D GestureStubView: resetRenderProperty: showGestureStub   isLayoutParamChanged=false
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:43.647  3159  3328 D GestureStubView: showGestureStub
+04-14 00:26:43.647  3159  3328 D GestureStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:43.648  3159  3328 W GestureStubView: adaptRotation   currentRotation=0   mRotation=0
+04-14 00:26:43.648  3159  3328 D GestureStubView: resetRenderProperty: showGestureStub   isLayoutParamChanged=false
+04-14 00:26:43.648  3159  3328 D GestureStubView_Touch: disableTouch    old=false   new=false
+04-14 00:26:43.648  3159  3328 D GestureStubView: showGestureStub
+04-14 00:26:43.648  3159  3329 D RecentsImpl: showNavStubView
+04-14 00:26:43.648  3159  3329 D NavStubView_Touch: setKeepHidden    old=false   new=false
+04-14 00:26:43.653  3159  3328 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+04-14 00:26:43.653  3159  3328 D GestureStubView: gatherTransparentRegion: need render w:54  h:1404
+04-14 00:26:43.768  8940  8940 D DecorView[]: onWindowFocusChanged hasWindowFocus false
+04-14 00:26:43.779  1169  3996 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+04-14 00:26:43.782  1591  2064 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +292ms
+04-14 00:26:43.783  1169  3996 E ANDR-PERF-LM: ThreadHelper: thread_callback() 145: More than one pending updates!!! This should not happen. MeterMgr should avoid this case.
+04-14 00:26:43.797  8940  8940 D DecorView[]: onWindowFocusChanged hasWindowFocus true
+04-14 00:26:44.313  8940  8940 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@c8399ec in: STOPPED
+04-14 00:26:44.314  8940  8940 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.dogglers/.MainActivity bnds=[859,1174][1031,1346] (has extras) }, activity=com.example.dogglers.MainActivity@c8399ec
+04-14 00:26:44.320  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:44.467  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:44.627  6414  6797 D ThermalIECHandler: storeDataStyle: thermal_iec_monitor_persistence_data_style_iec_state; startIECTime: -1; IECScreenOffOverPeriodTime: 23279884
+04-14 00:26:44.631  6414  6593 D PowerKeeper.Thermal: mBatteryTemperature: 35
+04-14 00:26:44.632  6414  6757 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 32, status = 2, level = 32, plug = 2, scale = 100
+04-14 00:26:44.633 11258 11258 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+04-14 00:26:44.636 11258 11258 I PowerNoticeUI: handleBatteryChanged oldPlugType 2 mPlugType 2 oldBatteryLevel 32 mBatteryLevel 32 temperature 351
+04-14 00:26:44.638  3093  3093 V DeviceStatisticsService: chargerType=2 batteryLevel=32 totalBatteryCapacity=2715100
+04-14 00:26:45.030  3149  3381 D NetworkController.MobileSignalController(1): update5GConnectState: false
+04-14 00:26:45.030  3149  3381 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 5
+04-14 00:26:45.049  3149  3381 D NetworkController.MobileSignalController(2): update5GConnectState: false
+04-14 00:26:45.050  3149  3381 D NetworkController.MobileSignalController(2): NotQcom5G, signal level = 5
+04-14 00:26:45.366  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:45.468  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:45.560  1591  4846 D CompatibilityInfo: mCompatibilityFlags - 0
+04-14 00:26:45.560  1591  4846 D CompatibilityInfo: applicationDensity - 440
+04-14 00:26:45.560  1591  4846 D CompatibilityInfo: applicationScale - 1.0
+04-14 00:26:45.658  1591  1680 W System  : A resource failed to call release.
+04-14 00:26:45.675  1591  1680 W System  : A resource failed to call close.
+04-14 00:26:45.675  1591  1680 W System  : A resource failed to call close.
+04-14 00:26:45.675  1591  1680 W System  : A resource failed to call close.
+04-14 00:26:46.399  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:46.469  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:46.671  2936  7883 I PlayCommon: [187] akwg.j(32): Preparing logs for uploading
+04-14 00:26:46.683  2936  7883 I PlayCommon: [187] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:46.953  2936  7883 I PlayCommon: [187] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.035  2936  7919 I PlayCommon: [188] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.047  2936  7919 I PlayCommon: [188] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.096  2936  7920 I PlayCommon: [189] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.102  2936  7920 I PlayCommon: [189] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.128  2936  7921 I PlayCommon: [190] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.134  2936  7921 I PlayCommon: [190] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.204  2936  7922 I PlayCommon: [191] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.209  2936  7919 I PlayCommon: [188] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.213  2936  7922 I PlayCommon: [191] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.244  2936  7923 I PlayCommon: [192] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.253  2936  7923 I PlayCommon: [192] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.315  2936  7925 I PlayCommon: [193] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.321  2936  7931 I PlayCommon: [195] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.323  2936  7926 I PlayCommon: [194] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.330  2936  7925 I PlayCommon: [193] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.332  2936  7926 I PlayCommon: [194] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.341  2936  7931 I PlayCommon: [195] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.366  2936  7922 I PlayCommon: [191] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.380  2936  7920 I PlayCommon: [189] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.406  2936  7921 I PlayCommon: [190] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.430  2936  7939 I PlayCommon: [196] akwg.j(32): Preparing logs for uploading
+04-14 00:26:47.437  2936  7939 I PlayCommon: [196] akwg.j(186): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+04-14 00:26:47.442  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:47.469  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:47.484  2936  7923 I PlayCommon: [192] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.558  3103  3103 D TelephonyManager: requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=24196117 mSleepTimeMs=13040005 mIdleTimeMs=2455074 mTxTimeMs[]=[468, 125, 46, 1, 0] mRxTimeMs=8213468}
+04-14 00:26:47.582  2936  7939 I PlayCommon: [196] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.582  2936  7925 I PlayCommon: [193] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.590  2936  7926 I PlayCommon: [194] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.607  2936  7931 I PlayCommon: [195] akwg.j(224): Successfully uploaded logs.
+04-14 00:26:47.941  6678  6893 I BtGatt.ScanManager: msg.what = 6, msg.arg1 = 100(mMiuiControllingType)
+04-14 00:26:48.470  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:48.478  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:49.471  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:49.516  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:50.472  1068  2655 D displayfeature: readbrightness,out:88.
+04-14 00:26:50.552  5280  5393 I AudioManager: In isSpeakerphoneOn(), calling application: com.huaqin.sarcontroller
+04-14 00:26:50.584  8940  8962 E TestRunner: failed: recycler_view_item_count(com.example.dogglers.HorizontalListTests)
+04-14 00:26:50.584  8940  8962 E TestRunner: ----- begin exception -----
+04-14 00:26:50.589  8940  8962 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[STARTED, RESUMED, DESTROYED, CREATED]" (last lifecycle transition = "PRE_ON_CREATE")
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+04-14 00:26:50.589  8940  8962 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2284)
+04-14 00:26:50.589  8940  8962 E TestRunner: ----- end exception -----
+04-14 00:26:50.607  8940  8962 I TestRunner: finished: recycler_view_item_count(com.example.dogglers.HorizontalListTests)
